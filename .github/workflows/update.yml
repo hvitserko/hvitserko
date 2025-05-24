@@ -2,14 +2,15 @@ name: Update EPG
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"   # roda a cada 12 horas
+  workflow_dispatch:          # permite rodar manualmente
 
 jobs:
   update-files:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository (no history)
+      - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 1
@@ -23,16 +24,18 @@ jobs:
         run: |
           python -m pip install requests pytz
 
-      - name: Run programacao script
-        env:
-          FONTES: ${{ secrets.FONTES }}
+      - name: Run EPG generator
         run: |
           python guia/programacao.py
 
-      - name: Force commit and push the changes (no history)
+      - name: Push changes
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
-          git add mylist.xml
-          git commit -m "yohooho"
-          git push --force
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
+          git add guia/mylist.xml
+          git commit -m "Update EPG data" || echo "No changes"
+          git push
+
