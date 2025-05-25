@@ -40,10 +40,23 @@ def filter_and_build_epg(urls):
         if epg_data is None:
             continue
 
+        rename_map = {
+            '5f7790b3ed0c88000720b241': 'One Piece eng',
+            '5da0c85bd2c9c10009370984': 'Naruto Eng',
+        }
+
         for channel in epg_data.findall('channel'):
             tvg_id = channel.get('id')
             if tvg_id in valid_tvg_ids:
+                # Se o ID estiver no dicionário, renomeia o display-name
+                if tvg_id in rename_map:
+                    for name in channel.findall('display-name'):
+                        channel.remove(name)
+                    new_display_name = ET.Element('display-name')
+                    new_display_name.text = rename_map[tvg_id]
+                    channel.append(new_display_name)
                 root.append(channel)
+
 
         for programme in epg_data.findall('programme'):
             tvg_id = programme.get('channel')
@@ -68,7 +81,6 @@ urls = [
         'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml',
         'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Roku/all.xml',
         'https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz',
-        'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/MeTV/epg.xml',
         'https://www.open-epg.com/generate/dJMkRZRhTB.xml.gz',
 ]
 

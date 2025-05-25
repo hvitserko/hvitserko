@@ -10,14 +10,27 @@ MGM+.HDTV.(East).(MGM+HD).us
 MGM+.Drive-In.(MGM+DI).us
 MGM+.Hits.HDTV.(East).(MGM+HTHD).us
 Paramount.Network.USA.-.Eastern.Feed.us
-CLEO.TV.us
-Grit.TV.us
 VICE.us
 ACC.Network.us
 NewsNation.-.Eastern.Feed.us
 Crave4.ca
 Crave2.-.East.ca
-metv
+MeTV.us
+UPtv.us
+WFUT GetTV.us
+MTV-U.us
+BET Soul.us
+BET Gospel.us
+beIN Sports (English).us
+Bounce TV.us
+Comet.us
+Cleo TV.us
+Laff.us
+Buzzr.us
+Grit TV (KOFY) San Francisco, CA (20).us
+WFN-World Fishing Network HD (1679).us
+WCBS Start TV.us
+NBC Sports Boston.us
 5f120e94a5714d00074576a1
 5f120f41b7d403000783a6d6
 61b790b985706b00072cb797
@@ -70,11 +83,8 @@ metv
 65a9b20f0c7ff50008d3a3b6
 58e55b14ad8e9c364d55f717
 62fa8176b9884200074ef5ae
-5e82bb378601b80007b4bd78
-62f2ce24f328e00007e7f55a
 5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d
 5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92
-62f2ce24f328e00007e7f55a
 5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba
 5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9
 5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf26
@@ -106,16 +116,3 @@ metv
 USBC36000073J
 7bdac47dd6dd5204b00b1d0e4cbc9684
 bdf6b34e48585f588789f7e7857a84a6
-UPtv.u
-getTV.us
-Start TV.us
-MTV-U.us
-BET Soul.us
-BET Gospel.us
-beIN Sports (English).us
-Bounce TV.us
-Comet.us
-Cleo TV.us
-Laff.us
-Buzzr.us
-Grit TV (KOFY) San Francisco, CA (20).us
