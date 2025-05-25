@@ -66,13 +66,10 @@ urls = [
         'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/us.xml',
         'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/br.xml',
         'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml',
-        'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/us.xml',
-        'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/gb.xml',
-        'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/ca.xml',
-        'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/ca.xml',
-        'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/gb.xml',
+        'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Roku/all.xml',
         'https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz',
         'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/MeTV/epg.xml',
+        'https://www.open-epg.com/generate/dJMkRZRhTB.xml.gz',
 ]
 
 if __name__ == "__main__":
