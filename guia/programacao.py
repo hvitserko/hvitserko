@@ -60,7 +60,7 @@ def filter_and_build_epg(urls):
 
         special_tvg_ids = {
             'OuterMax.east.us',
-            'Showtime Extreme - Pacific (859).us',
+            'Showtime.Extreme.-.Eastern.us',
             'Showtime.Women.HD.-.Eastern.us',
             'MGM+.HDTV.(East).(MGM+HD).us',
             'MGM+.Hits.HDTV.(East).(MGM+HTHD).us',
