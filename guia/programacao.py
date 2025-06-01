@@ -59,9 +59,14 @@ def filter_and_build_epg(urls):
 
 
         for programme in epg_data.findall('programme'):
-            tvg_id = programme.get('channel')
-            if tvg_id in valid_tvg_ids:
-                root.append(programme)
+                    tvg_id = programme.get('channel')
+                    if tvg_id in valid_tvg_ids:
+                        title_element = programme.find('title')
+                        if title_element is not None and title_element.text == "Movie":
+                            subtitle_element = programme.find('sub-title')
+                            if subtitle_element is not None and subtitle_element.text:
+                                title_element.text = subtitle_element.text
+                        root.append(programme)
 
     tree = ET.ElementTree(root)
     tree.write(output_file, encoding='utf-8', xml_declaration=True)
