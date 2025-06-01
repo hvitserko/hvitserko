@@ -66,19 +66,30 @@ def filter_and_build_epg(urls):
                     if subtitle_element is not None and subtitle_element.text:
                         title_element.text = subtitle_element.text
 
-                if title_element is not None and title_element.text:
-                    if title_element.text.startswith("One Piece - "):
-                        title_element.text = title_element.text.replace("One Piece - ", "", 1)
-                    elif title_element.text.strip() == "One Piece":
-                        episode_num = programme.find('episode-num')
-                        if episode_num is not None and episode_num.text:
-                            title_element.text = episode_num.text
+                desc_element = programme.find('desc')
+                if title_element is not None and desc_element is not None and desc_element.text:
+                    title_element.text = desc_element.text.strip()
 
-                    date_element = programme.find('date')
-                    if date_element is not None and date_element.text:
-                        year = date_element.text.strip()
-                        if f"({year})" not in title_element.text:
-                            title_element.text = f"{title_element.text.strip()}, ({year})"
+                    if tvg_id == 'OuterMax.east.us':
+                        date_element = programme.find('date')
+                        year = date_element.text.strip() if date_element is not None and date_element.text else None
+
+                        # Pega a primeira categoria com lang="en"
+                        categories = [
+                            cat.text.strip()
+                            for cat in programme.findall('category')
+                            if cat.text and cat.attrib.get('lang') == 'en'
+                        ]
+                        category = categories[1] if len(categories) > 1 else (categories[0] if categories else None)
+
+                        if year:
+                            if category:
+                                suffix = f"({year}, {category})"
+                            else:
+                                suffix = f"({year})"
+
+                            if suffix not in title_element.text:
+                                title_element.text = f"{title_element.text.strip()}, {suffix}"
 
                 root.append(programme)
     tree = ET.ElementTree(root)
