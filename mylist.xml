@@ -35096,6 +35096,7 @@
 <channel id="5ff609de50ab210008025c1b">
 <display-name>Tokusato</display-name>
 </channel>
+<<<<<<< HEAD
 <programme start="20250601073900 +0000" stop="20250601091800 +0000" channel="4675">
 <title>Iceman: O Viajante do Tempo</title>
 <desc>Iceman 2: O Viajante do Tempo acompanha os guerreiros da China que foram congelados acidentalmente por 400 anos e acordam na moderna Hong Kong. Ao serem descongelados, retornam no tempo para a batalha que deixaram para trás e conseguirem mudar o destino de sua aldeia.
@@ -35111,6 +35112,8 @@
 <desc>Aos 16 anos de idade, Max McGrath descobre que seu corpo pode gerar a energia mais poderosa do universo, ele deve vincular-se com o único ser capaz de contenê-lo: um extraterrestre tecno-orgânico misterioso chamado Steel. Unidos como o super-herói Max Steel, os dois amigos devem combater uma ameaça alienígena e desvendar os segredos de seu passado.
 </desc>
 </programme>
+=======
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 <programme start="20250601124300 +0000" stop="20250601150800 +0000" channel="4675">
 <title>Redenção</title>
 <desc>História do ex-motoqueiro e traficante Sam Childers, que tornou-se um grande lutador em defesa das crianças do Sudão, obrigadas a virar soldados muito antes de se tornarem homens. O sujeito se dedica com paixão às crianças e acaba deixando um pouco de lado sua vida nos Estados Unidos, onde tem esposa e filha. Conhecido como "pastor da metralhadora", ele não tem problema em pegar em armas para defender o que pensa.
@@ -35156,6 +35159,7 @@
 <desc>Quando a filha de um lutador de MMA é sequestrada, há somente um homem que pode ajudar a encontrá-la – um notório ex-mercenário, cujo boatos, levou seis tiros no peito.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601061600 +0000" stop="20250601080200 +0000" channel="6806">
 <title>Uma Questão de Fé</title>
 <desc>Uma garota cristã influenciada pelas aulas do professor se afasta da fé, seu pai tenta fazer algo a respeito.
@@ -35174,6 +35178,21 @@
 <programme start="20250601113000 +0000" stop="20250601131600 +0000" channel="6806">
 <title>Hora de Recomeçar</title>
 <desc>Uma jovem problemática precisa decidir entre ter uma vida divertida e sem preocupações da cidade grande, ou uma vida rural sem frescuras e muito trabalho duro para descobrir quem ela realmente é.
+=======
+<programme start="20250602072100 +0000" stop="20250602091400 +0000" channel="4675">
+<title>O Novato</title>
+<desc>Quando o erro de um agente novato custa a vida de toda a sua equipe, ele é forçado a fugir e deve descobrir a verdade, recriando os eventos da missão malfadada com apenas a gravação de áudio para guiá-lo.
+</desc>
+</programme>
+<programme start="20250602091400 +0000" stop="20250602110000 +0000" channel="4675">
+<title>Congelado</title>
+<desc>Durante um jantar, Robert é sequestrado pela máfia russa e acorda na câmara frigorífica de um restaurante. Ele descobre que o confundiram com outro homem, que deve muito dinheiro aos criminosos. Lá dentro, Robert encontra um policial ferido que pode ser a solução para o problema.
+</desc>
+</programme>
+<programme start="20250602110000 +0000" stop="20250602132600 +0000" channel="4675">
+<title>Snowpiercer</title>
+<desc>Num futuro em que um experimento fracassado matou quase todas as pessoas, um novo sistema de classes emerge.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601131600 +0000" stop="20250601145600 +0000" channel="6806">
@@ -35216,6 +35235,7 @@
 <desc>Uma jovem problemática precisa decidir entre ter uma vida divertida e sem preocupações da cidade grande, ou uma vida rural sem frescuras e muito trabalho duro para descobrir quem ela realmente é.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601062100 +0000" stop="20250601083100 +0000" channel="6800">
 <title>Maré Negra</title>
 <desc>Mergulhador profissional retorna após 1 ano em um encontro quase fatal com um grande tubarão branco.
@@ -35234,6 +35254,26 @@
 <programme start="20250601120000 +0000" stop="20250601135100 +0000" channel="6800">
 <title>Abismo do Medo</title>
 <desc>Um ano após um trágico acidente, algumas amigas vão explorar uma caverna. Uma delas, Juno (Natalie Jackson Mendoza), sem avisar as outras, as levou para uma caverna que nenhuma pessoa tinha explorado. Logo elas descobrem que talvez alguém tenha entrado ali, mas nunca saído vivo. Um acidente faz com que uma rocha se desprenda e as amigas fiquem presas na caverna. Com a saída bloqueada, elas passam a explorar o local, buscando outro meio de sair. Porém elas passam a ser perseguidas por estranhas criaturas, que se escondem na escuridão da caverna.
+=======
+<programme start="20250602004600 +0000" stop="20250602022600 +0000" channel="6806">
+<title>Os Dez Mandamentos</title>
+<desc>Moisés ouve a voz de Deus vinda de uma Acácia de Fogo, que o inspira a confrontar o faraó do Egito.
+</desc>
+</programme>
+<programme start="20250602022600 +0000" stop="20250602030000 +0000" channel="6806">
+<title>Desenhos Animados do Velho Testamento - Moises</title>
+<desc>O rei do Egito é avisado da profecia de que Messias chegará. Para evitar que o inimigo sobreviva, ele ordena que matem todos os bebês do sexo masculino.
+</desc>
+</programme>
+<programme start="20250602030000 +0000" stop="20250602042400 +0000" channel="6806">
+<title>Trenk, O Cavaleiro Trapalhão</title>
+<desc>Trenk quer tornar-se um cavaleiro e liberar sua família. Depois de muitas aventuras, ele resolve o problema do dragão e é condecorado pelo Duque.
+</desc>
+</programme>
+<programme start="20250602042400 +0000" stop="20250602062300 +0000" channel="6806">
+<title>O Garoto de Ouro</title>
+<desc>Quando Mats encontra um par de calças que contém uma quantidade ilimitada de dinheiro no bolso a vida
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601135100 +0000" stop="20250601155500 +0000" channel="6800">
@@ -35276,6 +35316,7 @@
 <desc>Uma caça ao tesouro em um cruzeiro se tornará uma luta pela sobrevivência para Liu e o namorado.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601062100 +0000" stop="20250601080900 +0000" channel="6802">
 <title>Atormentada</title>
 <desc>Depois que um caso tumultuado entre a jornalista internacional Lee (Jennifer Jason Leigh) e o escritor problemático John (Martin Henderson) termina com o misterioso desaparecimento de John, Lee vai parar em um hospital psiquiátrico para tentar se recuperar.
@@ -35289,6 +35330,26 @@
 <programme start="20250601110000 +0000" stop="20250601124000 +0000" channel="6802">
 <title>Risco Imediato</title>
 <desc>Um jovem casal de americanos que vive em Londres tem uma grande divida por justa causa. Uma manhã eles encontram que o inquilino do apartamento de baixo morre e deixa 200.000 em dinheiro. Tudo o que eles têm a fazer é pegar o dinheiro e todos os seus problemas seriam resolvidos. Então eles fazem, e desde ahi coisas muito ruins começam a acontecer para eles.
+=======
+<programme start="20250602044900 +0000" stop="20250602062200 +0000" channel="6800">
+<title>Assassinatos do Passado</title>
+<desc>Um detetive trabalha para resolver um caso envolvendo um jovem surdo e um site de voyerismo que funciona em uma casa que pertenceu a um assassino em série.
+</desc>
+</programme>
+<programme start="20250602062200 +0000" stop="20250602075300 +0000" channel="6800">
+<title>Obsessão</title>
+<desc>Catherine volta à sua antiga propriedade, onde é forçada a enfrentar o passado misterioso de sua família.
+</desc>
+</programme>
+<programme start="20250602075300 +0000" stop="20250602093800 +0000" channel="6800">
+<title>Sobrevivente</title>
+<desc>Um casal em uma caminhada desolada se perdeu irremediavelmente dentro do território de um urso negro agressivo.
+</desc>
+</programme>
+<programme start="20250602093800 +0000" stop="20250602120000 +0000" channel="6800">
+<title>Maré Negra</title>
+<desc>Mergulhador profissional retorna após 1 ano em um encontro quase fatal com um grande tubarão branco.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601124000 +0000" stop="20250601151000 +0000" channel="6802">
@@ -35336,6 +35397,7 @@
 <desc>Lorraine, uma mãe solteira desamparada e seu filho de 8 anos, são sequestrados por Roy, um violento ladrão de bancos, que a obriga a dirigir através do país para encontrar o cúmplice que está com o dinheiro do roubo. A luta de Lorraine pela sobrevivência marca o início de sua jornada rumo à liberdade.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601063700 +0000" stop="20250601082100 +0000" channel="4677">
 <title>Muita Calma Nessa Hora</title>
 <desc>Três jovens amigas, Tita, Mari e Aninha, decidem mudar de situação e viajam para um local de praia para passar um fim de semana. Na estrada, eles conhecem Estrella, uma hippie que quer se esconder para tentar encontrar seu pai desconhecido.
@@ -35354,6 +35416,21 @@
 <programme start="20250601120000 +0000" stop="20250601135200 +0000" channel="4677">
 <title>Quem é Morto Sempre Aparece</title>
 <desc>Para resolver seus problemas financeiros, um agente de viagens está de olho em um cadáver congelado, que por acaso está sendo procurado por dois assassinos.
+=======
+<programme start="20250602064800 +0000" stop="20250602090100 +0000" channel="6802">
+<title>6 Balas</title>
+<desc>Quando a filha de um lutador de MMA é sequestrada, há somente um homem que pode ajudar a encontrá-la – um notório ex-mercenário, cujo boatos, levou seis tiros no peito.
+</desc>
+</programme>
+<programme start="20250602090100 +0000" stop="20250602110000 +0000" channel="6802">
+<title>Morte Por Encomenda</title>
+<desc>Detetive é contratado para encontrar uma stripper, mas tudo se complica quando quem ele questiona acaba morto.
+</desc>
+</programme>
+<programme start="20250602110000 +0000" stop="20250602131400 +0000" channel="6802">
+<title>Sem evidências</title>
+<desc>Dizem que os crimes foram satânicos. A verdade pode ser mais assustadora.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601135200 +0000" stop="20250601154900 +0000" channel="4677">
@@ -35396,6 +35473,7 @@
 <desc>Baseado no livro "Walt Antes do Mickey", conta os primeiros anos da carreira de Walt Disney.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601064600 +0000" stop="20250601083500 +0000" channel="6804">
 <title>Vinho de Verão</title>
 <desc>Na mesma ideia de "Sob o Sol da Toscana", James largou o emprego e seguiu seu sonho, que o levou a Espanha.
@@ -35414,6 +35492,26 @@
 <programme start="20250601120000 +0000" stop="20250601135400 +0000" channel="6804">
 <title>O Último Vice-Rei</title>
 <desc>Em 1947, Lord Mountbatten assume o cargo de último vice-rei, encarregado de entregar a Índia de volta ao seu povo. Ele massa a viver no andar de cima na casa que era antes de governantes britânicos, enquanto 500 criados hindus, muçulmanos e sikh viviam no andar de baixo.
+=======
+<programme start="20250602050600 +0000" stop="20250602065600 +0000" channel="4677">
+<title>Albatroz</title>
+<desc>Beth, uma adolescente estudiosa, fica amiga de Emilia, uma aspirante a romancista recém-chegada à cidade. Emilia logo começa a ter um caso com o pai de Beth e isso pode ser a porta de entrada para consequências devastadoras.
+</desc>
+</programme>
+<programme start="20250602065600 +0000" stop="20250602083400 +0000" channel="4677">
+<title>Donkey Xote</title>
+<desc>Uma história de Don Quixote contada por um burro de Sancho Pança...
+</desc>
+</programme>
+<programme start="20250602083400 +0000" stop="20250602101700 +0000" channel="4677">
+<title>A História de Wim de A a Z</title>
+<desc>Situado por volta de 1900, Apenstreken (A História de Wim de A a Z) Esta é a história do órfão Wim, que quer muito ir à escola, em vez de passar todo o seu tempo trabalhando forçadamente na fábrica da cidade. Com uma dose de esperteza e com a ajuda de um pequeno macaco, Wim encontra novos amigos, uma escola divertida e uma família amorosa.
+</desc>
+</programme>
+<programme start="20250602101700 +0000" stop="20250602120000 +0000" channel="4677">
+<title>Minha Quase Verdadeira História</title>
+<desc>A comédia de ação se passa em 1944. Hitler aparece nele como uma pessoa física e mentalmente destruída que segue o conselho de Goebbels no ator-professor do campo de concentração judeu para lições de eloquência.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601135400 +0000" stop="20250601155400 +0000" channel="6804">
@@ -35456,6 +35554,7 @@
 <desc>Século XVIII. Caroline Mathilde é uma jovem britânica que se torna rainha da Dinamarca após se casar com o insano rei ChrisPan VII. Em viagem pela Europa, a saúde mental do monarca piora a cada dia e um acompanhamento médico torna-se necessário. O alemão Johann Struensee é escolhido e rapidamente conquista a confiança do rei, tornando-se seu confidente e principal conselheiro.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601074000 +0000" stop="20250601094900 +0000" channel="5f120e94a5714d00074576a1">
 <title>A Perseguição</title>
 <desc>Ottway trabalha em um lugar isolado no Alasca. Certo dia, quando retornava à cidade para matar a saudade da esposa, o avião cai. Feridos e sem alimentos, os sobreviventes lutam pela vida e tentam reencontrar a civilização.
@@ -35469,6 +35568,26 @@
 <programme start="20250601112800 +0000" stop="20250601133400 +0000" channel="5f120e94a5714d00074576a1">
 <title>Código de Honra</title>
 <desc>Um ex-coronel das forças especiais se torna um vigilante que mata criminosos, enquanto um ex-colega quer detê-lo.
+=======
+<programme start="20250602053900 +0000" stop="20250602071700 +0000" channel="6804">
+<title>How to Train Your Puppy/Husband</title>
+<desc>Uma terapeuta matrimonial tenta consertar seu próprio casamento concentrando-se em como mudar seu marido.
+</desc>
+</programme>
+<programme start="20250602071700 +0000" stop="20250602091800 +0000" channel="6804">
+<title>Terapia do Amor</title>
+<desc>Rafi, uma bela produtora de fotos de 37 anos se recuperando de um divórcio recente, conhece David, um belo pintor de 23 anos recém-saído da faculdade.
+</desc>
+</programme>
+<programme start="20250602091800 +0000" stop="20250602113000 +0000" channel="6804">
+<title>Nos Bastidores da Fama</title>
+<desc>A jovem e talentosa artista Noni Jean (Gugu Mbatha-Raw) alcança a sonhada fama, mas não consegue lidar muito bem com as complexidades do estrelato e sucumbe ante a pressão da vida pública. Até sua vida ser salva por Kaz Nicol (Nate Parker), um policial designado a protegê-la, que pode ser a peça chave que faltava para desbloquear o potencial artistíco dela. Apesar dos protestos de seus respectivos pais, que querem que os jovens concentrem-se em suas próprias carreiras, os dois vão lutar para seguir esse romance.
+</desc>
+</programme>
+<programme start="20250602113000 +0000" stop="20250602131200 +0000" channel="6804">
+<title>Amor, Felicidade Ou Casamento</title>
+<desc>Uma terapeuta de casais, feliz no casamento, descobre que os pais estão se divorciando e tudo sai do controle.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601133400 +0000" stop="20250601154200 +0000" channel="5f120e94a5714d00074576a1">
@@ -35486,6 +35605,7 @@
 <desc>Frank Martin é obrigado a conduzir Valentina, a filha de Leonid Vasilev, o chefe da Agência de Proteção Ambiental da Ucrânia, de Marselha a Odessa, além de dois sacos de conteúdo suspeito.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601062400 +0000" stop="20250601082500 +0000" channel="5f120f41b7d403000783a6d6">
 <title>Carga Explosiva 3</title>
 <desc>Frank Martin é obrigado a conduzir Valentina, a filha de Leonid Vasilev, o chefe da Agência de Proteção Ambiental da Ucrânia, de Marselha a Odessa, além de dois sacos de conteúdo suspeito.
@@ -35499,6 +35619,21 @@
 <programme start="20250601101800 +0000" stop="20250601120800 +0000" channel="5f120f41b7d403000783a6d6">
 <title>O Sequestro do Ônibus 657</title>
 <desc>Um pai não tem meios para pagar o tratamento médico da filha. Como último recurso, ele se une a um colega de trabalho ganancioso para roubar um cassino. Quando as coisas dão errado, eles são forçados a sequestrar um ônibus da cidade.
+=======
+<programme start="20250601195100 +0000" stop="20250601213600 +0000" channel="5f120e94a5714d00074576a1">
+<title>Duplex</title>
+<desc>Os jovens nova-iorquinos Alex e Nancy encontraram um lugar perfeito para compartilhar um futuro brilhante: o térreo de um belo e velho duplex, mas este vem com um acessório que eles não esperavam.
+</desc>
+</programme>
+<programme start="20250601213600 +0000" stop="20250601233000 +0000" channel="5f120e94a5714d00074576a1">
+<title>Penalidade Máxima</title>
+<desc>Danny Meehan (Vinnie Jones) é um verdadeiro ídolo do futebol inglês.Entretanto, Danny perde tudo o que conquistou em sua carreira pós ter sido acusado de manipular o resultado de um jogo.
+</desc>
+</programme>
+<programme start="20250601233000 +0000" stop="20250602015000 +0000" channel="5f120e94a5714d00074576a1">
+<title>K-PAX: O Caminho da Luz</title>
+<desc>Um estranho surge do nada, após uma confusão numa estação ferroviária. Afirmando ser de um planeta distante, K-Pax, Prot desafia cientistas e chama a atenção do Dr. Powell, cujo ceticismo inicial rapidamente se transforma em fascínio e espanto.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601120800 +0000" stop="20250601141600 +0000" channel="5f120f41b7d403000783a6d6">
@@ -35516,6 +35651,7 @@
 <desc>Quando a garota de quem ele está cuidando é sequestrada, um assassino aposentado rapidamente recupera seus instintos assassinos, incendiando a cidade.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601070300 +0000" stop="20250601085400 +0000" channel="5f12111c9e6c2c00078ef3bb">
 <title>Fenômenos Paranormais</title>
 <desc>Para o seu reality show sobre caça aos fantasmas, uma equipe de produção se tranca dentro de um hospital psiquiátrico abandonado que supostamente é assombrado – e pode ser que isso seja verdade demais.
@@ -35529,6 +35665,26 @@
 <programme start="20250601103600 +0000" stop="20250601122000 +0000" channel="5f12111c9e6c2c00078ef3bb">
 <title>Noite das Bruxas Macabra</title>
 <desc>Na noite anterior ao Halloween, um assassino mascarado persegue uma babá adolescente, mas em uma reviravolta incomum, a vítima e o agressor começam a desenvolver sentimentos românticos um pelo outro.
+=======
+<programme start="20250601180200 +0000" stop="20250601201300 +0000" channel="5f120f41b7d403000783a6d6">
+<title>Heróis</title>
+<desc>Dois jovens americanos com habilidades especiais precisam correr para encontrar uma garota em Hong Kong antes que uma sombria organização governamental chamada Division o faça.
+</desc>
+</programme>
+<programme start="20250601201300 +0000" stop="20250601221100 +0000" channel="5f120f41b7d403000783a6d6">
+<title>Redenção</title>
+<desc>Jason Statham é um veterano de guerra que assume uma nova identidade enquanto tenta se vingar dos assassinos de sua namorada grávida.
+</desc>
+</programme>
+<programme start="20250601221100 +0000" stop="20250602000000 +0000" channel="5f120f41b7d403000783a6d6">
+<title>Olhos de Dragão</title>
+<desc>Hong usa sua visão moral e habilidades para lutar e salvar um bairro de traficantes de drogas e policiais corruptos.
+</desc>
+</programme>
+<programme start="20250602000000 +0000" stop="20250602014200 +0000" channel="5f120f41b7d403000783a6d6">
+<title>Ameaça Explosiva</title>
+<desc>Depois de uma ameaça de bomba, dois especialistas do FBI mergulham em um jogo mortal de gato e rato com um criminoso, correndo desesperadamente contra o tempo para descobrir o verdadeiro objetivo do homem-bomba, enquanto lutam para salvar sua cidade.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601122000 +0000" stop="20250601140600 +0000" channel="5f12111c9e6c2c00078ef3bb">
@@ -35551,6 +35707,7 @@
 <desc>Seis amigos vão passar o recesso de verão em uma villa à beira-mar, mas um segredo do passado vem à tona e transforma as férias deles em um pesadelo.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601065500 +0000" stop="20250601091000 +0000" channel="5f171d3442a0500007362f22">
 <title>O Franco-Atirador</title>
 <desc>Depois de uma longa carreira como matador de aluguel, Martin Terrier pretende se aposentar e passar o resto da vida ao lado de sua amada. Mas ele descobre que está sendo traído por pessoas de sua confiança!
@@ -35564,6 +35721,21 @@
 <programme start="20250601110100 +0000" stop="20250601131100 +0000" channel="5f171d3442a0500007362f22">
 <title>Xeque-Mate</title>
 <desc>Um caso de identidade equivocada coloca Slevin no meio de uma guerra sendo tramada por dois dos chefes do crime mais rivais da cidade. Sob vigilância constante do detetive Brikowski e do assassino Goodkat, ele deve pegá-los antes que eles o peguem.
+=======
+<programme start="20250601185700 +0000" stop="20250601203800 +0000" channel="5f12111c9e6c2c00078ef3bb">
+<title>Pânico nas Alturas</title>
+<desc>Cinco jovens, que querem celebrar o Ano Novo no topo de uma montanha, ficam presos em um teleférico quando uma terrível tempestade tem início. O que era para ser uma festa de aventura, logo se torna uma luta pela sobrevivência.
+</desc>
+</programme>
+<programme start="20250601203800 +0000" stop="20250601221800 +0000" channel="5f12111c9e6c2c00078ef3bb">
+<title>Armadilha</title>
+<desc>Sonhando em fugir de sua cidade natal, Amber convence seus amigos a fazer uma pausa. Quando o carro quebra, eles concordam em deixar um homem pegá-los mais tarde e descobrem que o veículo está cheio de caixas manchadas de sangue.
+</desc>
+</programme>
+<programme start="20250601221800 +0000" stop="20250602000200 +0000" channel="5f12111c9e6c2c00078ef3bb">
+<title>Perigo em Alto Mar</title>
+<desc>Quatro jovens se vêm perdidos em alto, em que a única esperança é nadar até uma ilha próxima, o problema que no mar se esconde um faminto tubarão.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601131100 +0000" stop="20250601145000 +0000" channel="5f171d3442a0500007362f22">
@@ -35581,6 +35753,7 @@
 <desc>Sean Casey, é um jovem advogado que, como novo membro da promotoria, é escalado para uma importante investigação. Agora ele está mais próximo de desvendar um mistério de corrupção policial em Nova Iorque.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601065700 +0000" stop="20250601091100 +0000" channel="5fa15ad6367e170007cdd098">
 <title>Inferno na Montanha</title>
 <desc>Um pai e um filho tentam salvar os habitantes de uma pequena cidade de um desastre natural e do colapso de um túnel recém-construído.
@@ -35594,6 +35767,21 @@
 <programme start="20250601105600 +0000" stop="20250601124900 +0000" channel="5fa15ad6367e170007cdd098">
 <title>O Legado de Osiris</title>
 <desc>Situado no futuro em uma época de colonização interplanetária, um par improvável corre contra uma crise global iminente e é confrontado pelos monstros que vivem dentro de todos nós.
+=======
+<programme start="20250601185100 +0000" stop="20250601204500 +0000" channel="5f171d3442a0500007362f22">
+<title>Agentes Duplos</title>
+<desc>Danny Gallagher, um desacreditado detetive da narcóticos recém saído da prisão, busca vingança da pessoa responsável pela a acusação que o levou a ser preso e que matou seu parceiro.
+</desc>
+</programme>
+<programme start="20250601204500 +0000" stop="20250601224000 +0000" channel="5f171d3442a0500007362f22">
+<title>Cidade do Ódio</title>
+<desc>Roy é um ladrão aposentado que se une ao seu irmão e dois cúmplices para um último trabalho, assaltar uma joalheria. O assalto dá certo, mas ele é traído por um dos bandidos, que mata seu irmão. Roy agora quer se vingar do antigo comparsa.
+</desc>
+</programme>
+<programme start="20250601224000 +0000" stop="20250602003600 +0000" channel="5f171d3442a0500007362f22">
+<title>2019: O Ano Da Extinção</title>
+<desc>O ano é 2019; e uma praga desconhecida transformou a população mundial em vampiros sedentos de sangue. À medida que os humanos e seu sangue se tornam mais escassos; Os vampiros devem procurar novas maneiras de satisfazer seu desejo.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601124900 +0000" stop="20250601141100 +0000" channel="5fa15ad6367e170007cdd098">
@@ -35611,6 +35799,7 @@
 <desc>Quando um ex-comandante das Operações Especiais visita Pompéia, sua esposa e filha ficam presas no Monte. O Vesúvio entra em erupção com força maciça.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601073100 +0000" stop="20250601095000 +0000" channel="6479ff764f5ba5000878dfe2">
 <title>Massacre no Bairro Chinês</title>
 <desc>Jackie Chan faz o papel de um fugitivo do Japão que se torna um assassino para a máfia. O longa é focado na vida de imigrantes chineses que vivem no Japão.
@@ -35624,6 +35813,26 @@
 <programme start="20250601114000 +0000" stop="20250601132900 +0000" channel="6479ff764f5ba5000878dfe2">
 <title>Sedutora e Diabólica</title>
 <desc>Uma garota rebelde se envolve com uma agência de acompanhantes, da qual seu padrasto é cliente.
+=======
+<programme start="20250601180300 +0000" stop="20250601200200 +0000" channel="5fa15ad6367e170007cdd098">
+<title>Equilibrium</title>
+<desc>Num futuro incerto, a raça humana foi quase totalmente devastada da Terra. Para salvar o mundo, os governantes decidiram criar uma droga capaz de inibir o sentimento humano e garantir a paz para sempre.
+</desc>
+</programme>
+<programme start="20250601200200 +0000" stop="20250601214400 +0000" channel="5fa15ad6367e170007cdd098">
+<title>Planeta dos Tubarões</title>
+<desc>Em um futuro próximo, o derretimento glacial cobrirá 98% da massa terrestre. Tubarões floresceram e agora dominam o planeta, operando como uma enorme escola liderada por um tubarão alfa mutante.
+</desc>
+</programme>
+<programme start="20250601214400 +0000" stop="20250601232800 +0000" channel="5fa15ad6367e170007cdd098">
+<title>Pânico em Seattle</title>
+<desc>Quando uma grande tempestade ameaça o noroeste do Pacífico, uma família deve se encontrar e trabalhar junta para acabar com a tempestade antes que ela se espalhe além de seu controle e aniquile o planeta!
+</desc>
+</programme>
+<programme start="20250601232800 +0000" stop="20250602011200 +0000" channel="5fa15ad6367e170007cdd098">
+<title>Megalodon</title>
+<desc>Uma embarcação militar em busca de um submersível não identificado encontra-se cara a cara com um tubarão gigante, forçado a usar apenas o que tem a bordo para se defender da besta monstruosa.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601132900 +0000" stop="20250601152800 +0000" channel="6479ff764f5ba5000878dfe2">
@@ -35641,6 +35850,7 @@
 <desc>Um criminoso se reúne com um velho amigo após uma troca de armas fracassada.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601065900 +0000" stop="20250601083500 +0000" channel="5f12101f0b12f00007844c7c">
 <title>Medidas Desesperadas</title>
 <desc>Um proprietário de clube noturno em dificuldades recorre a medidas desesperadas para pagar um empréstimo.
@@ -35654,6 +35864,21 @@
 <programme start="20250601101500 +0000" stop="20250601115600 +0000" channel="5f12101f0b12f00007844c7c">
 <title>Mais um besteirol ao extremo</title>
 <desc>Uma sátira das comédias adolescentes, em que os jovens estão na fase das descobertas sobre sexo e relacionamentos. Uma viagem adolescente com muitas confusões, festas e azarações. Uma comédia sobre as alegrias e os embaraços do sexo adolescentes.
+=======
+<programme start="20250601184900 +0000" stop="20250601210500 +0000" channel="6479ff764f5ba5000878dfe2">
+<title>Sombra</title>
+<desc>Esta é a história de uma mãe que, apesar de todos os obstáculos que encontra, não aceita desistir de lutar para encontrar o seu filho de 11 anos, que desapareceu de forma misteriosa.
+</desc>
+</programme>
+<programme start="20250601210500 +0000" stop="20250601230100 +0000" channel="6479ff764f5ba5000878dfe2">
+<title>Dupla em Fúria</title>
+<desc>Uma onda de assassinatos sacode Hong Kong. O jovem detetive Wang Bu Er tem certeza de que eles são o trabalho de um assassino em sériee, junto com Huang Fei Hong, um mestre do kung, eles empreendem uma aventura em ritmo acelerado para investigar o caso.
+</desc>
+</programme>
+<programme start="20250601230100 +0000" stop="20250602010200 +0000" channel="6479ff764f5ba5000878dfe2">
+<title>Assassino Virtual</title>
+<desc>Quando uma simulação de realidade virtual criada com as personalidades de vários serial killers consegue escapar para o mundo real, um ex-policial tem a missão de deter seu reinado de terror.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601115600 +0000" stop="20250601141600 +0000" channel="5f12101f0b12f00007844c7c">
@@ -35676,6 +35901,7 @@
 <desc>Um detetive de Hong Kong se une a um jogador americano para lutar contra um notório criminoso chinês.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601061200 +0000" stop="20250601080700 +0000" channel="62545ed3dab4380007582f7c">
 <title>Um casamento muito louco</title>
 <desc>Natasha e Roman são um jovem casal que sonham com uma festa de casamento em uma cidade do litoral europeu. Mas o padrasto de Natasha, um conservador gerente do município, enxerga no casamento a possibilidade perfeita para alavancar a sua carreira.
@@ -35694,6 +35920,16 @@
 <programme start="20250601113200 +0000" stop="20250601131700 +0000" channel="62545ed3dab4380007582f7c">
 <title>O Casamento do Ano</title>
 <desc>Um casal divorciado deve fingir que tem um casamento feliz, já que seu filho, prestes a se casar, convidou sua mãe biológica muito religiosa para o casamento.
+=======
+<programme start="20250601200200 +0000" stop="20250601220500 +0000" channel="5f12101f0b12f00007844c7c">
+<title>Quem É Morto Sempre Aparece</title>
+<desc>Um agente de viagens endividado (Robin Williams) tenta arrecadar um milhão de dólares alegando que um cadáver é seu irmão desaparecido.
+</desc>
+</programme>
+<programme start="20250601220500 +0000" stop="20250602000400 +0000" channel="5f12101f0b12f00007844c7c">
+<title>ESCOLA DE IDIOTAS (2006)</title>
+<desc>Um jovem azarado se inscreve em um curso para ganhar confiança e ajudar a conquistar a garota dos seus sonhos, mas as coisas se complicam quando o professor tem o mesmo plano.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601131700 +0000" stop="20250601152000 +0000" channel="62545ed3dab4380007582f7c">
@@ -35711,6 +35947,7 @@
 <desc>Um policial viciado em drogas planeja arruinar as chances de promoção de seus colegas por qualquer meio possível, inclusive lavando a roupa suja e seduzindo suas esposas. Baseado no romance de Irvine Welsh.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601065300 +0000" stop="20250601083600 +0000" channel="5f171f988ab9780007fa95ea">
 <title>Uma Pousada de Presente</title>
 <desc>Quando a mulher de negócios Jennifer é informada de que seus pais viajarão sem ela para as festas, ela decide deixar sua vida agitada na cidade de São Francisco e visitar a pousada da avó no Alasca, que ela herdou para reformar e vender.
@@ -35724,6 +35961,21 @@
 <programme start="20250601110400 +0000" stop="20250601130100 +0000" channel="5f171f988ab9780007fa95ea">
 <title>Amor Idêntico</title>
 <desc>Depois de ter sido abandonada ao altar, uma médica é voluntária no estrangeiro e descobre que o gémeo de seu ex-noivo também lá está.
+=======
+<programme start="20250601191900 +0000" stop="20250601213200 +0000" channel="62545ed3dab4380007582f7c">
+<title>O Príncipe das Mulheres</title>
+<desc>O executivo de marketing Marcus Graham é um mulherengo dedicado à boa vida, à liberdade e à felicidade da conquista. Isso tudo até ele conhecer uma mulher elegante e esperta que trata os homens da mesma forma que ele trata as mulheres.
+</desc>
+</programme>
+<programme start="20250601213200 +0000" stop="20250601233100 +0000" channel="62545ed3dab4380007582f7c">
+<title>Encalhados</title>
+<desc>Megan de 28 anos, vai a um reencontro de amigos da escola e percebe que sua vida continua a mesma de 10 anos atrás. Porém, ao receber um pedido de casamento de seu namorado, ela entra em crise.
+</desc>
+</programme>
+<programme start="20250601233100 +0000" stop="20250602013000 +0000" channel="62545ed3dab4380007582f7c">
+<title>Amigos, Amigos, Mulheres à Parte</title>
+<desc>Tank (Dane Cook) encara o mais difícil teste de amizade quando seu melhor amigo (Jason Biggs) o contrata para convidar a ex-namorada (Kate Hudson) para um encontro desastroso e, assim, mostrar a ela como ele é um ótimo namorado.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601130100 +0000" stop="20250601144300 +0000" channel="5f171f988ab9780007fa95ea">
@@ -35741,6 +35993,7 @@
 <desc>Uma adolescente precoce tem um despertar sexual e começa a descobrir que o casamento dos pais não é tão forte quanto ela acreditava.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601065700 +0000" stop="20250601085300 +0000" channel="5f1210d14ae1f80007bafb1d">
 <title>All She Wrote</title>
 <desc>Enquanto tenta recomeçar em Nova Iorque, um antigo pugilista é manipulado para voltar ao ringue para uma última luta.
@@ -35754,6 +36007,21 @@
 <programme start="20250601105600 +0000" stop="20250601125900 +0000" channel="5f1210d14ae1f80007bafb1d">
 <title>Desejo Inconcebível</title>
 <desc>Uma mãe tenta escapar de seu passado abusivo mudando-se para uma nova cidade, onde faz amizade com outra mãe, que começa a desconfiar dela.
+=======
+<programme start="20250601182800 +0000" stop="20250601203800 +0000" channel="5f171f988ab9780007fa95ea">
+<title>A Garota dos Meus Sonhos</title>
+<desc>A vigarista Rosalyn Willoughby, em Hollywood, e o artista de rua Fletcher McBracken, em San Antonio, têm o mesmo sonho, que os liga um ao outro. Ele viaja para Los Angeles para encontrá-la, mas a princípio ela resiste.
+</desc>
+</programme>
+<programme start="20250601203800 +0000" stop="20250601231000 +0000" channel="5f171f988ab9780007fa95ea">
+<title>Ritmo Quente</title>
+<desc>De 17 anos, está  de férias com sua família em um resort nas montanhas, quando ela é atraída para os alojamentos dos funcionários, ouvindo música. Lá ela conhece Johnny, o instrutor de dança do hotel, e eles se apaixonam apesar dos avisos de todos.
+</desc>
+</programme>
+<programme start="20250601231000 +0000" stop="20250602011000 +0000" channel="5f171f988ab9780007fa95ea">
+<title>Um Amor para Recordar</title>
+<desc>Jamie era a última pessoa por quem Landon se apaixonaria. Muito séria e conservadora para seu gosto, filha de um pastor de igreja batista.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601125900 +0000" stop="20250601143600 +0000" channel="5f1210d14ae1f80007bafb1d">
@@ -35771,6 +36039,7 @@
 <desc>Linda Hanson é uma mulher suburbana que um dia é avisada que seu marido, Jim, morreu em um terrível desastre automobilístico. Porém, ao acordar no dia seguinte, tudo está perfeitamente normal em sua vida e Jim está vivo.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601053800 +0000" stop="20250601080500 +0000" channel="5fa1612a669ba0000702017b">
 <title>Duelo ao Sol</title>
 <desc>Quando seu pai é enforcado por atirar em sua esposa e seu amante, a birracial Pearl Chavez vai viver com parentes distantes no Texas.
@@ -35789,6 +36058,21 @@
 <programme start="20250601113700 +0000" stop="20250601132300 +0000" channel="5fa1612a669ba0000702017b">
 <title>Top Secret! - Superconfidencial</title>
 <desc>"Top Secret!" coloca a estrela do rock americano Nick Rivers contra o Alto Comando da Alemanha Oriental. É uma corrida contra o tempo quando Nick se junta com Hillary Flammond para encontrar o pai dela.
+=======
+<programme start="20250601184300 +0000" stop="20250601203400 +0000" channel="5f1210d14ae1f80007bafb1d">
+<title>Em Busca de Vingança</title>
+<desc>Um homem traumatizado busca vingança após ter perdido a esposa e o filho em acidente de avião causado por negligência de um controlador de tráfego aéreo. Inspirado no acidente de Überlingen, no qual os passageiros eram em sua maioria crianças.
+</desc>
+</programme>
+<programme start="20250601203400 +0000" stop="20250601230700 +0000" channel="5f1210d14ae1f80007bafb1d">
+<title>A Última Fortaleza</title>
+<desc>Seu serviço ao seu país o tornou um herói. Um erro o tornou prisioneiro. Para o General Eugene Irwin (Redford), é apenas uma questão de cumprir sua sentença, até que ele descobre que seus colegas de cela estão sendo assassinatos.
+</desc>
+</programme>
+<programme start="20250601230700 +0000" stop="20250602011700 +0000" channel="5f1210d14ae1f80007bafb1d">
+<title>O Duelo</title>
+<desc>Um Ranger do Texas está investigando uma série de mortes inexplicáveis em uma cidade chamada Helena.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601132300 +0000" stop="20250601154200 +0000" channel="5fa1612a669ba0000702017b">
@@ -35806,6 +36090,7 @@
 <desc>Johnny Utah, um jovem agente do FBI, se infiltra em círculos de surf para desmascarar uma gangue de ladrões que, como marca registrada, usam máscaras de presidentes dos Estados Unidos durante seus golpes.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601063100 +0000" stop="20250601090200 +0000" channel="61b790b985706b00072cb797">
 <title>A Era da Escuridão - S1E0</title>
 <desc>Na década de 1920, durante a ocupação japonesa da Coreia e da China, guerreiros enfrentam policiais e agentes japoneses tentando contrabandear explosivos pela fronteira e utilizando meios violentos para alcançar os seus objetivos.
@@ -35823,6 +36108,22 @@
 <desc>Quando sua mãe viaja, Olívia fica sob os cuidados do seu irmão mais velho, Miles. Quando Olivia testemunha um sequestro, ninguém acredita nela, nem mesmo seu irmão. Determinada a provar seu valor, a pequena decide investigar o crime por si só.
 </desc>
 <episode-num system="xmltv_ns">0.-1</episode-num>
+=======
+<programme start="20250601201500 +0000" stop="20250601220400 +0000" channel="5fa1612a669ba0000702017b">
+<title>Outubro Negro</title>
+<desc>Jornalista americano viaja para Israel com o intuito de investigar a morte de oito fuzileiros navais, vítimas de um ataque terrorista. Mas ele acaba descobrindo que muito mais coisas se escondem por trás do incidente e sua vida passa a correr perigo.
+</desc>
+</programme>
+<programme start="20250601220400 +0000" stop="20250602000000 +0000" channel="5fa1612a669ba0000702017b">
+<title>O Legionário</title>
+<desc>Na Marselha dos anos 20, lutador de boxe vence luta que deveria perder de propósito. Para fugir dos gângsters que buscam vingança, resolve se alistar na Legião Estrangeira, onde enfrenta os horrores da batalha no inóspito deserto do Marrocos.
+</desc>
+</programme>
+<programme start="20250602000000 +0000" stop="20250602015800 +0000" channel="5fa1612a669ba0000702017b">
+<title>Cemitério Maldito</title>
+<desc>Para a maioria das família, mudar-se é um novo começo. Mas para os Creeds, ele pode ser o começo do fim.
+</desc>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601124300 +0000" stop="20250601145000 +0000" channel="61b790b985706b00072cb797">
 <title>O Rei da Montanha - S1E0</title>
@@ -35842,6 +36143,7 @@
 </desc>
 <episode-num system="xmltv_ns">0.-1</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601071800 +0000" stop="20250601090800 +0000" channel="5f171f032cd22e0007f17f3d">
 <title>A Incrível Jornada de Jacqueline</title>
 <desc>Fatah, um pequeno fazendeiro argelino, só tem olhos para sua vaca Jacqueline, que ele sonha em ver na grande feira de Agricultura, realizada em Paris.
@@ -35861,6 +36163,25 @@
 <title>Um Conto De Fadas Nas Montanhas</title>
 <desc>A pediatra Tasha Mason está focada em manter as crianças de sua enfermaria o mais saudáveis possível. Mas quando o belo Príncipe Alexander Cavalieri quebra a perna em uma pista de esqui, Tasha é forçada a cuidar de um mimado membro da realeza.
 </desc>
+=======
+<programme start="20250601191900 +0000" stop="20250601210600 +0000" channel="61b790b985706b00072cb797">
+<title>Jogada de Mestre - S1E0</title>
+<desc>Um dos homens mais ricos da Europa vive de forma pacata na tranquila Amsterdã. Enquanto isso, na mesma cidade, um grupo de amigos que vive de pequenos golpes decide arriscar tudo em um plano aparentemente perfeito.
+</desc>
+<episode-num system="xmltv_ns">0.-1</episode-num>
+</programme>
+<programme start="20250601210600 +0000" stop="20250601225700 +0000" channel="61b790b985706b00072cb797">
+<title>O Resgate - S1E0</title>
+<desc>Will Montgomery é um ladrão de bancos que decide mudar de vida ao sair da prisão. No entanto, seu ex-parceiro não acredita que ele tenha queimado o dinheiro do último assalto, e resolve sequestrar a sua filha e pedir um resgate milionário.
+</desc>
+<episode-num system="xmltv_ns">0.-1</episode-num>
+</programme>
+<programme start="20250601225700 +0000" stop="20250602010400 +0000" channel="61b790b985706b00072cb797">
+<title>Efeito Dominó - S1E0</title>
+<desc>Terry é o líder de um bando que planeja roubar os cofres de um banco. Porém, eles não sabem que esses cofres também guardam segredos que poderão envolvê-los em uma perigosa rede de corrupção e escândalos, implicando altos escalões do governo.
+</desc>
+<episode-num system="xmltv_ns">0.-1</episode-num>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601135700 +0000" stop="20250601155800 +0000" channel="5f171f032cd22e0007f17f3d">
 <title>Meu “Querido” Elfo</title>
@@ -35877,6 +36198,7 @@
 <desc>Dois meninos se encontram em uma ilha que existe além do tempo, onde são cercados por dinossauros e outros fenômenos estranhos.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601062200 +0000" stop="20250601081300 +0000" channel="5fa991b1f09e020007e78626">
 <title>O Que Fazer?</title>
 <desc>Depois de saber que só tem 90 minutos de vida, por conta de um aneurisma no cérebro, um homem infeliz quer fazer as pazes com todos aqueles que foram magoados por ele.
@@ -35895,6 +36217,21 @@
 <programme start="20250601120800 +0000" stop="20250601135400 +0000" channel="5fa991b1f09e020007e78626">
 <title>A Garota do Funeral</title>
 <desc>Buscando se conectar com as pessoas e um pouco de amor em sua vida, uma garota passa seu tempo entrando em funerais sem ser convidada.
+=======
+<programme start="20250601192600 +0000" stop="20250601210900 +0000" channel="5f171f032cd22e0007f17f3d">
+<title>Pequenos Espiões 4</title>
+<desc>Marisa Cortez Wilson é casada com Wilbur, um repórter conhecido por desmascarar espiões, e com ele tem um bebê e duas crianças. O que o marido não sabe é que a esposa é uma ex-espiã, que decidiu largar a carreira para se dedicar à família.
+</desc>
+</programme>
+<programme start="20250601210900 +0000" stop="20250601231700 +0000" channel="5f171f032cd22e0007f17f3d">
+<title>Tempo de mudança</title>
+<desc>Enviado para o rancho de seu pai americano durante o verão, uma adolescente e seu cavalo Lucky Lass competem por uma vaga no National Youth Rodeo.
+</desc>
+</programme>
+<programme start="20250601231700 +0000" stop="20250602010700 +0000" channel="5f171f032cd22e0007f17f3d">
+<title>Cão Vermelho</title>
+<desc>Sobre um cão kelpie carismático que uniu uma comunidade mineira nos anos 70 e 80.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601135400 +0000" stop="20250601154500 +0000" channel="5fa991b1f09e020007e78626">
@@ -35912,6 +36249,7 @@
 <desc>A história bíblica da crucificação de Cristo contada aos olhos de Barrabás, um criminoso condenado à crucificação e perdoado por Pôncio Pilatos em um feriado judaico.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601074800 +0000" stop="20250601093100 +0000" channel="5f5a545d0dbf7f0007c09408">
 <title>Cano Serrado</title>
 <desc>Região Centro-Oeste do Brasil. Uma vasta ecorregião de savana tropical chamada "Cerrado". E que traz uma vasta história de violência, brutalidade e luta pela honra.
@@ -35930,6 +36268,21 @@
 <programme start="20250601114700 +0000" stop="20250601133300 +0000" channel="5f5a545d0dbf7f0007c09408">
 <title>O Crime da Cabra</title>
 <desc>O pagamento para venda de uma cabra acaba sendo comido pela própria, desencadeando uma série de acontecimentos, entre investigações, acusações e debates, em uma cidade do interior.
+=======
+<programme start="20250601200100 +0000" stop="20250601222200 +0000" channel="5fa991b1f09e020007e78626">
+<title>Poder Além da Vida</title>
+<desc>Dan Millman é um atleta que tem dinheiro, mulheres perseguindo-o e aptidões para participar das Olimpíadas. Mas um encontro com Sócrates, um homem que questiona tudo, faz sua visão de mundo mudar completamente.
+</desc>
+</programme>
+<programme start="20250601222200 +0000" stop="20250601234600 +0000" channel="5fa991b1f09e020007e78626">
+<title>Torturado por Cristo</title>
+<desc>Uma releitura cinematográfica do testemunho do fundador de 'A Voz dos Mártires', Pastor Richard Wurmbrand, conforme escrito em seu best-seller internacional "Torturado por Cristo".
+</desc>
+</programme>
+<programme start="20250601234600 +0000" stop="20250602020400 +0000" channel="5fa991b1f09e020007e78626">
+<title>E Se... Você Tivesse Uma Segunda Chance?</title>
+<desc>Há 15 anos, Ben Walker deixou sua namorada, sua cidade e seu ministério por uma oportunidade de negócios. Agora ele tem uma sólida carreira e uma noiva. Um dia ele é visitado por um anjo que mostra como seria sua vida se ele tivesse seguido seu chamado.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 </programme>
 <programme start="20250601133300 +0000" stop="20250601153500 +0000" channel="5f5a545d0dbf7f0007c09408">
@@ -35947,6 +36300,7 @@
 <desc>Em uma perigosa viagem psicológica, o ex-policial Hector vive seu passado no presente, no intuito de encontrar respostas para aliviar angústias.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601074500 +0000" stop="20250601083000 +0000" channel="62c5d32e2c48f9000715b6e9">
 <title>Acorrentada - S1E2</title>
 <desc>Gaviota é libertada e Diana se sente sozinha na prisão, mas ela se oferece para pagar sua fiança.
@@ -35976,6 +36330,22 @@
 <desc>Depois de sete longos anos, Rip sai da prisão e planeja refazer a vida com sua esposa. Ela confessa que deu o filho deles para a adoção e Rip agora tem todas as intenções para recuperá-lo, apesar do sofrimento dos pais adotivos.
 </desc>
 <episode-num system="xmltv_ns">0.-1</episode-num>
+=======
+<programme start="20250601190800 +0000" stop="20250601211800 +0000" channel="5f5a545d0dbf7f0007c09408">
+<title>Tudo que Deus Criou</title>
+<desc>O drama de Miguel Arcanjo que, entre traumas e obstáculos, convive com a necessidade de sustentar sua família. Com a mãe, a irmã e o cunhado, enfrenta acontecimentos de alegria, amor e tragédia.
+</desc>
+</programme>
+<programme start="20250601211800 +0000" stop="20250601230200 +0000" channel="5f5a545d0dbf7f0007c09408">
+<title>Boleiros 2 Vencedores e Vencidos</title>
+<desc>O bar do Aurélio, reduto de boleiros famosos, está prestes a ser reinaugurado e acaba de ganhar um novo sócio, o herói do penta Marquinhos.
+</desc>
+</programme>
+<programme start="20250601230200 +0000" stop="20250602002400 +0000" channel="5f5a545d0dbf7f0007c09408">
+<title>Circo Esperança</title>
+<desc>No início da pandemia do coronavírus, o palhaço Nanaca e sua equipe de circenses se veem presos dentro do circo sem poderem fazer o que mais amam, que é levar alegria às pessoas.
+</desc>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601131500 +0000" stop="20250601153000 +0000" channel="62c5d32e2c48f9000715b6e9">
 <title>Tempo de Mudanças - S1E0</title>
@@ -35995,6 +36365,7 @@
 </desc>
 <episode-num system="xmltv_ns">0.-1</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601064500 +0000" stop="20250601090100 +0000" channel="633dcebd80386500074a2461">
 <title>Sobibor - S1E0</title>
 <desc>O oficial soviético Alexander Pechersky organiza uma revolta e uma fuga em massa dos prisioneiros de Sobibor, um campo de extermínio, em outubro de 1943.
@@ -36010,6 +36381,23 @@
 <programme start="20250601105700 +0000" stop="20250601124900 +0000" channel="633dcebd80386500074a2461">
 <title>O Cachorro que Salvou o Verão - S1E0</title>
 <desc>Depois que seu cachorro Zeus estraga uma festa, George o leva para uma escola de obediência dirigida por um peculiar instrutor. Porém, o cão consegue falhar em todos os testes, e ele procura a ajuda de um treinador com técnicas especiais.
+=======
+<programme start="20250601183000 +0000" stop="20250601204500 +0000" channel="62c5d32e2c48f9000715b6e9">
+<title>Insanidade - S1E0</title>
+<desc>Em uma instalação subterrânea, cinco cientistas acordam de um sono criogênico sem se lembrar de quem são ou há quanto tempo estão dormindo. Eles logo chegam a uma conclusão chocante: um assassino está caçando-os e pode até estar escondido entre eles.
+</desc>
+<episode-num system="xmltv_ns">0.-1</episode-num>
+</programme>
+<programme start="20250601204500 +0000" stop="20250601230000 +0000" channel="62c5d32e2c48f9000715b6e9">
+<title>O Imperador - S1E0</title>
+<desc>Na China Antiga, um poderoso general busca se tornar imperador. Enquanto isso, os filhos de suas vítimas são treinados secretamente para matá-lo.
+</desc>
+<episode-num system="xmltv_ns">0.-1</episode-num>
+</programme>
+<programme start="20250601230000 +0000" stop="20250602004500 +0000" channel="62c5d32e2c48f9000715b6e9">
+<title>Perdido na Fama - S1E0</title>
+<desc>Turk Henry, um baixista de uma banda mega-platina recentemente separada, leva sua esposa mimada para férias exóticas no Chile, mas ela é levada por um grupo de piratas que querem dinheiro para comprar um barco.
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </desc>
 <episode-num system="xmltv_ns">0.-1</episode-num>
 </programme>
@@ -36031,6 +36419,7 @@
 </desc>
 <episode-num system="xmltv_ns">0.-1</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601074200 +0000" stop="20250601080900 +0000" channel="65df71008b24c80008f04281">
 <title>South Park</title>
 <desc>Cartman conta para seus amigos sobre o seu sonho em que apareciam uns alienígenas que o abduzem e lhe introduzem uma sonda anal. Mas ao que parece, não foi apenas um sonho, já que algo está enlouquecendo as vacas deste pequeno vilarejo.
@@ -36107,6 +36496,25 @@
 <desc>Os meninos ficam com raiva de Cartman quando ele come a parte mais gostosa das asas de frango, e decidem ignorá-lo. Todos começam a fazer o mesmo. Ao ser ignorado por todos, ele começa a pensar que está morto e que agora é um fantasma.
 </desc>
 <episode-num system="xmltv_ns">8.5</episode-num>
+=======
+<programme start="20250601184800 +0000" stop="20250601205900 +0000" channel="633dcebd80386500074a2461">
+<title>Uma Viagem para a Espanha - S1E0</title>
+<desc>Steve Coogan e Rob Brydon conhecem restaurantes e hotéis da costa espanhola, trocando piadas e impressões sobre seus almoços, conversando sobre paternidade, masculinidade e envelhecimento.
+</desc>
+<episode-num system="xmltv_ns">0.-1</episode-num>
+</programme>
+<programme start="20250601205900 +0000" stop="20250601224600 +0000" channel="633dcebd80386500074a2461">
+<title>Uma Aventura e Tanto - S1E0</title>
+<desc>O cão vira-lata Pluto aparece de repente e muda a vida da família Davis, que está enfrentando tempos difíceis. Em pouco tempo, ele salva uma criança, traz conforto a um garoto doente e repara um relacionamento desgastado de pai e filho.
+</desc>
+<episode-num system="xmltv_ns">0.-1</episode-num>
+</programme>
+<programme start="20250601224600 +0000" stop="20250602005200 +0000" channel="633dcebd80386500074a2461">
+<title>Debi &amp; Lóide 2 - S1E0</title>
+<desc>Vinte anos após a sua última aventura, os melhores amigos Harry Debi e Lóide Christmas partem em busca da filha perdida de Harry, enquanto Lóide tenta conquistar a sua mais nova paixão. No caminho, eles reencontram diversos personagens do passado.
+</desc>
+<episode-num system="xmltv_ns">0.-1</episode-num>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601133400 +0000" stop="20250601140100 +0000" channel="65df71008b24c80008f04281">
 <title>South Park - S9E11</title>
@@ -36174,6 +36582,7 @@
 </desc>
 <episode-num system="xmltv_ns">12.12</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601075900 +0000" stop="20250601082600 +0000" channel="65df704366eec8000898e32f">
 <title>South Park - S14E13</title>
 <desc>Guaxinim e amigos se encontram à mercê de Cartman, que agora tem o senhor das trevas, Cthulhu, trabalhando para ele. Kenny luta contra a maldição dos seus superpoderes através do seu alter ego, Mysterion.
@@ -36250,6 +36659,85 @@
 <desc>O Chef está sendo processado por tentar obter os direitos autorais de uma canção que escreveu há 20 anos atrás. Para ajudá-lo nesta batalha, os garotos organizam um concerto para arrecadar dinheiro.
 </desc>
 <episode-num system="xmltv_ns">1.13</episode-num>
+=======
+<programme start="20250601182500 +0000" stop="20250601185200 +0000" channel="65df71008b24c80008f04281">
+<title>South Park - S14E3</title>
+<desc>O restaurante favorito de Cartman foi fechado e substituído por uma loja que vende maconha medicinal. Enquanto Randy quer conseguir uma prescrição médica para comprar maconha, Cartman fará de tudo para ter de volta sua amada galinha frita.
+</desc>
+<episode-num system="xmltv_ns">13.2</episode-num>
+</programme>
+<programme start="20250601185200 +0000" stop="20250601191900 +0000" channel="65df71008b24c80008f04281">
+<title>South Park - S14E8</title>
+<desc>Cartman quer se tornar um corredor da NASCAR, mas ele acha que não tem condições porque não é "pobre e suficientemente estúpido" para alcançar seus sonhos.
+</desc>
+<episode-num system="xmltv_ns">13.7</episode-num>
+</programme>
+<programme start="20250601191900 +0000" stop="20250601194600 +0000" channel="65df71008b24c80008f04281">
+<title>South Park - S15E4</title>
+<desc>Cartman tem um ataque de raiva quando os tamanhos dos pênis dos garotos são colocados no mural da escola de South Park e acabda sendo enviado para uma terapia de controle da raiva.
+</desc>
+<episode-num system="xmltv_ns">14.3</episode-num>
+</programme>
+<programme start="20250601194600 +0000" stop="20250601201300 +0000" channel="65df71008b24c80008f04281">
+<title>South Park - S15E12</title>
+<desc>Noventa e nove por cento dos alunos estão contra Eric Cartman.
+</desc>
+<episode-num system="xmltv_ns">14.11</episode-num>
+</programme>
+<programme start="20250601201300 +0000" stop="20250601204000 +0000" channel="65df71008b24c80008f04281">
+<title>South Park - S16E7</title>
+<desc>Uma nova garota chega na escola e todo mundo quer saber por quem ela tem uma queda, e Cartman está especialmente animado.
+</desc>
+<episode-num system="xmltv_ns">15.6</episode-num>
+</programme>
+<programme start="20250601204000 +0000" stop="20250601210700 +0000" channel="65df71008b24c80008f04281">
+<title>South Park - S16E9</title>
+<desc>Cartman finalmente admite que é gordo e providencia imediatamente uma scooter para se locomover.
+</desc>
+<episode-num system="xmltv_ns">15.8</episode-num>
+</programme>
+<programme start="20250601210700 +0000" stop="20250601213400 +0000" channel="65df71008b24c80008f04281">
+<title>South Park - S17E1</title>
+<desc>Cartman consegue se infiltrar na agência de segurança nacional.
+</desc>
+<episode-num system="xmltv_ns">16.0</episode-num>
+</programme>
+<programme start="20250601213400 +0000" stop="20250601220100 +0000" channel="65df71008b24c80008f04281">
+<title>South Park - S17E3</title>
+<desc>Token é considerado por Cartman uma ameaça a toda a humanidade.
+</desc>
+<episode-num system="xmltv_ns">16.2</episode-num>
+</programme>
+<programme start="20250601220100 +0000" stop="20250601222800 +0000" channel="65df71008b24c80008f04281">
+<title>South Park - S17E6</title>
+<desc>Cartman facilita a paz mundial com sua última brincadeira, o que leva os líderes religiosos a South Park para testemunhar o acontecimento de uma profecia bíblica.
+</desc>
+<episode-num system="xmltv_ns">16.5</episode-num>
+</programme>
+<programme start="20250601222800 +0000" stop="20250601225500 +0000" channel="65df71008b24c80008f04281">
+<title>South Park - S18E1</title>
+<desc>Os meninos criam uma empresa na qual eles não fazem nada, e enfim optam pelo nome "The Washington Redskins".
+</desc>
+<episode-num system="xmltv_ns">17.0</episode-num>
+</programme>
+<programme start="20250601225500 +0000" stop="20250601232200 +0000" channel="65df71008b24c80008f04281">
+<title>South Park - S18E3</title>
+<desc>Cartman ganha seu próprio banheiro dizendo que ele é "transginger" claro significado de transgenero.Segredo de Randy é revelado.
+</desc>
+<episode-num system="xmltv_ns">17.2</episode-num>
+</programme>
+<programme start="20250601232200 +0000" stop="20250601235000 +0000" channel="65df71008b24c80008f04281">
+<title>South Park - S19E4</title>
+<desc>Cartman se considera um critico de restaurante on-line em South Park, e vai visitar o restaurante dos novos moradores da cidade.
+</desc>
+<episode-num system="xmltv_ns">18.3</episode-num>
+</programme>
+<programme start="20250601235000 +0000" stop="20250602001700 +0000" channel="65df71008b24c80008f04281">
+<title>South Park - S22E8</title>
+<desc>Cartman foi diagnosticado com ansiedade.
+</desc>
+<episode-num system="xmltv_ns">21.7</episode-num>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601135300 +0000" stop="20250601142000 +0000" channel="65df704366eec8000898e32f">
 <title>South Park - S3E2</title>
@@ -36311,6 +36799,7 @@
 </desc>
 <episode-num system="xmltv_ns">13.7</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601073800 +0000" stop="20250601080500 +0000" channel="65df713dec9fda0008b7a81d">
 <title>South Park - S15E13</title>
 <desc>Os garotos estão próximos de descobrir a verdade sobre o primeiro Dia de Ação de Graças da história dos Estados Unidos.
@@ -36384,16 +36873,92 @@
 <episode-num system="xmltv_ns">0.9</episode-num>
 </programme>
 <programme start="20250601130500 +0000" stop="20250601133200 +0000" channel="65df713dec9fda0008b7a81d">
+=======
+<programme start="20250601182300 +0000" stop="20250601185000 +0000" channel="65df704366eec8000898e32f">
+<title>South Park - S14E12</title>
+<desc>A verdadeira identidade de Mysterion finalmente é revelada. Enquanto isso, Guaxinim, desprezado por seus amigos super-heróis, está com sede de vingança.
+</desc>
+<episode-num system="xmltv_ns">13.11</episode-num>
+</programme>
+<programme start="20250601185000 +0000" stop="20250601191700 +0000" channel="65df704366eec8000898e32f">
+<title>South Park - S14E13</title>
+<desc>Guaxinim e amigos se encontram à mercê de Cartman, que agora tem o senhor das trevas, Cthulhu, trabalhando para ele. Kenny luta contra a maldição dos seus superpoderes através do seu alter ego, Mysterion.
+</desc>
+<episode-num system="xmltv_ns">13.12</episode-num>
+</programme>
+<programme start="20250601191700 +0000" stop="20250601194400 +0000" channel="65df704366eec8000898e32f">
+<title>South Park - S16E11</title>
+<desc>É hora de Butters começar uma jornada onde seguirá os passos de seus ancestrais Havaianos.
+</desc>
+<episode-num system="xmltv_ns">15.10</episode-num>
+</programme>
+<programme start="20250601194400 +0000" stop="20250601201100 +0000" channel="65df704366eec8000898e32f">
+<title>South Park - S17E7</title>
+<desc>A temporada de compras de fim de ano começa e os garotos tentam descobrir como enfrentar a correria no shopping para conseguir bons preços em games.
+</desc>
+<episode-num system="xmltv_ns">16.6</episode-num>
+</programme>
+<programme start="20250601201100 +0000" stop="20250601203800 +0000" channel="65df704366eec8000898e32f">
+<title>South Park - S17E8</title>
+<desc>A guerra dos consoles aumenta enquanto grupos de compradores se apertam no shopping em antecipação à Black Friday. Enquanto isso, Cartman busca vingança contra a Princesa Kenny.
+</desc>
+<episode-num system="xmltv_ns">16.7</episode-num>
+</programme>
+<programme start="20250601203800 +0000" stop="20250601210500 +0000" channel="65df704366eec8000898e32f">
+<title>South Park - S17E9</title>
+<desc>As crianças de South Park estão interpretando os personagens de Game of Thrones.
+</desc>
+<episode-num system="xmltv_ns">16.8</episode-num>
+</programme>
+<programme start="20250601210500 +0000" stop="20250601213300 +0000" channel="65df704366eec8000898e32f">
+<title>South Park - S19E3</title>
+<desc>Neste novo episódio de South Park, Kenny está tentando sair do ciclo da pobreza e, para isso, arruma um novo emprego: ele começa a trabalhar na City Wok.
+</desc>
+<episode-num system="xmltv_ns">18.2</episode-num>
+</programme>
+<programme start="20250601213300 +0000" stop="20250601220000 +0000" channel="65df704366eec8000898e32f">
+<title>South Park - S22E6</title>
+<desc>Os cidadãos de South Park estão em perigo e as crianças descobrem que apenas Al Gore pode ajudá-los.
+</desc>
+<episode-num system="xmltv_ns">21.5</episode-num>
+</programme>
+<programme start="20250601220000 +0000" stop="20250601222700 +0000" channel="65df704366eec8000898e32f">
+<title>South Park</title>
+<desc>Cartman conta para seus amigos sobre o seu sonho em que apareciam uns alienígenas que o abduzem e lhe introduzem uma sonda anal. Mas ao que parece, não foi apenas um sonho, já que algo está enlouquecendo as vacas deste pequeno vilarejo.
+</desc>
+</programme>
+<programme start="20250601222700 +0000" stop="20250601225500 +0000" channel="65df704366eec8000898e32f">
+<title>South Park - S1E6</title>
+<desc>O avô de Stan está fazendo 102 e quer se matar, mas como não pode fazer isso sozinho, pede a ajuda de Stan. Enquanto isso, a senhora Broflovski protesta contra um famoso programa da televisão um tanto quanto inapropriado.
+</desc>
+<episode-num system="xmltv_ns">0.5</episode-num>
+</programme>
+<programme start="20250601225500 +0000" stop="20250601232300 +0000" channel="65df704366eec8000898e32f">
+<title>South Park - S1E7</title>
+<desc>Kenny é esmagado pela Estação Espacial Mir e se transforma em um zumbi que dá início a uma enorme epidemia. Entretanto, o doutor diagnostica todos como se fosse apenas um caso de conjutivite.
+</desc>
+<episode-num system="xmltv_ns">0.6</episode-num>
+</programme>
+<programme start="20250601232300 +0000" stop="20250601235000 +0000" channel="65df704366eec8000898e32f">
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 <title>South Park - S1E12</title>
 <desc>Os rapazes encontram um objeto misterioso em uma escavação escolar e saem no jornal. Barbra Streisand aparece na cidade buscando o tal objeto, pois é a última peça necessária para que ela possa se transformar em um monstro japonês gigante.
 </desc>
 <episode-num system="xmltv_ns">0.11</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601133200 +0000" stop="20250601135900 +0000" channel="65df713dec9fda0008b7a81d">
 <title>South Park - S2E4</title>
 <desc>Os garotos descobrem o que significa ser circuncidado e tentam salvar Ike do seu destino. O senhor Mackey é demitido, se entrega às drogas e se torna um hippie.
 </desc>
 <episode-num system="xmltv_ns">1.3</episode-num>
+=======
+<programme start="20250601235000 +0000" stop="20250602001700 +0000" channel="65df704366eec8000898e32f">
+<title>South Park - S2E3</title>
+<desc>Uma onda de crimes toma conta de South Park, galinhas são molestadas e Barbrady pede demissão.
+</desc>
+<episode-num system="xmltv_ns">1.2</episode-num>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601135900 +0000" stop="20250601142600 +0000" channel="65df713dec9fda0008b7a81d">
 <title>South Park - S3E10</title>
@@ -36455,6 +37020,7 @@
 </desc>
 <episode-num system="xmltv_ns">9.1</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601074800 +0000" stop="20250601081500 +0000" channel="65df70b0f7f0af0008c3b316">
 <title>South Park - S7E12</title>
 <desc>Um novo aluno mórmon se muda à South Park, mas não se dá bem com ninguém. Os rapazes querem que Stan comece uma briga com ele, mas na verdade, ele acaba se tornando seu amigo.
@@ -36504,11 +37070,39 @@
 <episode-num system="xmltv_ns">10.4</episode-num>
 </programme>
 <programme start="20250601112100 +0000" stop="20250601114800 +0000" channel="65df70b0f7f0af0008c3b316">
+=======
+<programme start="20250601182600 +0000" stop="20250601185200 +0000" channel="65df713dec9fda0008b7a81d">
+<title>South Park - S10E9</title>
+<desc>Cartman acha que os ataques do dia 11 de setembro fazem parte de uma conspiração, e se dispõe para trazer a verdade à luz. Enquanto isso, o senhor Mackey apenas quer saber quem foi o infeliz que defecou no mictório.
+</desc>
+<episode-num system="xmltv_ns">9.8</episode-num>
+</programme>
+<programme start="20250601185200 +0000" stop="20250601191900 +0000" channel="65df713dec9fda0008b7a81d">
+<title>South Park - S11E10</title>
+<desc>Cartman jura que viu um duende. Ele está tão obcecado com isso, que inclusive faz uma aposta com Kyle para provar que os duendes existem. Eles encontram o duende, e agora Kyle precisa cumprir com a aposta.
+</desc>
+<episode-num system="xmltv_ns">10.9</episode-num>
+</programme>
+<programme start="20250601191900 +0000" stop="20250601194600 +0000" channel="65df713dec9fda0008b7a81d">
+<title>South Park - S11E11</title>
+<desc>Stan e Kyle se tornam prisioneiros do Pentágono até contarem exatamente como chegaram à Terra da Imaginação. Cartman não desistirá da aposta e quer que Kyle chupe suas bolas, conforme o combinado.
+</desc>
+<episode-num system="xmltv_ns">10.10</episode-num>
+</programme>
+<programme start="20250601194600 +0000" stop="20250601201100 +0000" channel="65df713dec9fda0008b7a81d">
+<title>South Park - S11E12</title>
+<desc>Quando estão na Terra da Imaginação, Stan e Butters tem que lutar contra um exército de forças imaginárias do mal. A Suprema Corte declara que as criaturas imaginárias não são reais e planeja destruir a Terra da Imaginação.
+</desc>
+<episode-num system="xmltv_ns">10.11</episode-num>
+</programme>
+<programme start="20250601201100 +0000" stop="20250601203800 +0000" channel="65df713dec9fda0008b7a81d">
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 <title>South Park - S11E13</title>
 <desc>Stan e Kyle se tornam obcecados pelo Guitar Hero, chegando ao ponto de baterem recordes. Depois de um tempo Stan pensa que poderia ir mais longe na carreira com um parceiro diferente.
 </desc>
 <episode-num system="xmltv_ns">10.12</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601114800 +0000" stop="20250601121500 +0000" channel="65df70b0f7f0af0008c3b316">
 <title>South Park - S12E6</title>
 <desc>Um dia, os moradores de South Park acordam e descobrem que estão sem Internet. Randy descobre que ainda há Internet na Califórnia e junto com a sua família, eles se dirigem para o Oeste do país.
@@ -36516,11 +37110,21 @@
 <episode-num system="xmltv_ns">11.5</episode-num>
 </programme>
 <programme start="20250601121500 +0000" stop="20250601124200 +0000" channel="65df70b0f7f0af0008c3b316">
+=======
+<programme start="20250601203800 +0000" stop="20250601210500 +0000" channel="65df713dec9fda0008b7a81d">
+<title>South Park - S11E14</title>
+<desc>As meninas do quarto ano fizeram uma lista secreta que dá nota a todos os garotos, do mais bonito ao mais feio. Os garotos roubam a lista e os resultados não são o que eles esperavam.
+</desc>
+<episode-num system="xmltv_ns">10.13</episode-num>
+</programme>
+<programme start="20250601210500 +0000" stop="20250601213200 +0000" channel="65df713dec9fda0008b7a81d">
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 <title>South Park - S13E3</title>
 <desc>Enquanto a cidade está ocupada apontando culpados pela crise econômica, Randy apresenta uma solução para as dificuldades financeiras. Com a ajuda de todos os moradores, a cidade passa a viver sem qualquer economia.
 </desc>
 <episode-num system="xmltv_ns">12.2</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601124200 +0000" stop="20250601130900 +0000" channel="65df70b0f7f0af0008c3b316">
 <title>South Park - S13E6</title>
 <desc>Chegou a hora da corrida de pinhos em South Park e Stan e Randy estão trabalhando duro para construir o melhor carro. Enquanto trabalha no carro de corrida, Randy adquire um componente muito especial para garantir o primeiro lugar de Stan.
@@ -36528,11 +37132,47 @@
 <episode-num system="xmltv_ns">12.5</episode-num>
 </programme>
 <programme start="20250601130900 +0000" stop="20250601133600 +0000" channel="65df70b0f7f0af0008c3b316">
+=======
+<programme start="20250601213200 +0000" stop="20250601215900 +0000" channel="65df713dec9fda0008b7a81d">
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 <title>South Park - S13E11</title>
 <desc>Stan se mobiliza para impedir que os japoneses matem todas as baleias e os golfinhos do mundo.
 </desc>
 <episode-num system="xmltv_ns">12.10</episode-num>
 </programme>
+<<<<<<< HEAD
+=======
+<programme start="20250601215900 +0000" stop="20250601222600 +0000" channel="65df713dec9fda0008b7a81d">
+<title>South Park - S14E1</title>
+<desc>As últimas notícias sobre testes científicos realizados na escola de South Park revelam que alguns dos meninos estão viciados em sexo.
+</desc>
+<episode-num system="xmltv_ns">13.0</episode-num>
+</programme>
+<programme start="20250601222600 +0000" stop="20250601225300 +0000" channel="65df713dec9fda0008b7a81d">
+<title>South Park - S14E9</title>
+<desc>Kyle, Cartman Kenny e Stan se juntam com os cidadãos de South Park e lutam bravamente contra a dominação de Nova Jersey em uma onda que está afetando todo o país
+</desc>
+<episode-num system="xmltv_ns">13.8</episode-num>
+</programme>
+<programme start="20250601225300 +0000" stop="20250601232000 +0000" channel="65df713dec9fda0008b7a81d">
+<title>South Park - S15E1</title>
+<desc>Kyle está "intestinalmente" envolvido no desenvolvimento de um novo produto revolucionário que será lançado pela Apple chamado HumancentiPad.
+</desc>
+<episode-num system="xmltv_ns">14.0</episode-num>
+</programme>
+<programme start="20250601232000 +0000" stop="20250601234700 +0000" channel="65df713dec9fda0008b7a81d">
+<title>South Park - S15E5</title>
+<desc>Kyle participa do mais recente empreendimento de Cartman, a Associação Atlética de Bebês do Crack.
+</desc>
+<episode-num system="xmltv_ns">14.4</episode-num>
+</programme>
+<programme start="20250601234700 +0000" stop="20250602001400 +0000" channel="65df713dec9fda0008b7a81d">
+<title>South Park - S15E13</title>
+<desc>Os garotos estão próximos de descobrir a verdade sobre o primeiro Dia de Ação de Graças da história dos Estados Unidos.
+</desc>
+<episode-num system="xmltv_ns">14.12</episode-num>
+</programme>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 <programme start="20250601133600 +0000" stop="20250601140300 +0000" channel="65df70b0f7f0af0008c3b316">
 <title>South Park - S14E4</title>
 <desc>Os meninos fazem um perfil de Stan no Facebook contra a sua vontade. Stan acaba ficando de saco cheio com os pedidos de amizade e tenta deletar seu perfil, mas ele acaba sendo sugado para dentro do mundo virtual do Facebook.
@@ -36593,6 +37233,7 @@
 </desc>
 <episode-num system="xmltv_ns">17.5</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601073400 +0000" stop="20250601080200 +0000" channel="609ae66b359b270007869ff1">
 <title>South Park - S1E8</title>
 <desc>Quando Damien, o filho de Satanás, chega em South Park, ele e seu pai anunciam que a batalha final com Jesus se realizará em uma luta de boxe que decidirá qual dos dois é o mais forte.
@@ -36676,6 +37317,91 @@
 <desc>As férias já começaram, e com elas, o clima de festa na cidade! Mas os rapazes não podem brincar com fogos artificiais, já que é proibido por lei. O senhor Garrison perde o senhor chapéu e Cartman começa as aulas de natação.
 </desc>
 <episode-num system="xmltv_ns">1.7</episode-num>
+=======
+<programme start="20250601180600 +0000" stop="20250601183400 +0000" channel="65df70b0f7f0af0008c3b316">
+<title>South Park - S23E2</title>
+<desc>Randy vê uma oportunidade de sucesso para a Fazenda Tegridade.
+</desc>
+<episode-num system="xmltv_ns">22.1</episode-num>
+</programme>
+<programme start="20250601183400 +0000" stop="20250601190200 +0000" channel="65df70b0f7f0af0008c3b316">
+<title>South Park - S1E3</title>
+<desc>Os rapazes saem para caçar com Jimbo, o tio de Stan, e seu velho amigo vietnamita Ned. Enquanto isso, um monstro misterioso que vive na montanha os ameaça e um vulcão bem próximo a South Park está a ponto de sofrer uma erupção.
+</desc>
+<episode-num system="xmltv_ns">0.2</episode-num>
+</programme>
+<programme start="20250601190200 +0000" stop="20250601193000 +0000" channel="65df70b0f7f0af0008c3b316">
+<title>South Park - S1E4</title>
+<desc>Stan tem um novo cachorro chamado Sparky, que ao que tudo indica, é gay. Isso vira motivo de piada entre seus amigos. Quando Sparky foge, Stan vai ao Santuário de Animais do Grande Gay Al e aprende algumas coisas sobre a homossexualidade.
+</desc>
+<episode-num system="xmltv_ns">0.3</episode-num>
+</programme>
+<programme start="20250601193000 +0000" stop="20250601195800 +0000" channel="65df70b0f7f0af0008c3b316">
+<title>South Park - S1E6</title>
+<desc>O avô de Stan está fazendo 102 e quer se matar, mas como não pode fazer isso sozinho, pede a ajuda de Stan. Enquanto isso, a senhora Broflovski protesta contra um famoso programa da televisão um tanto quanto inapropriado.
+</desc>
+<episode-num system="xmltv_ns">0.5</episode-num>
+</programme>
+<programme start="20250601195800 +0000" stop="20250601202500 +0000" channel="65df70b0f7f0af0008c3b316">
+<title>South Park - S2E15</title>
+<desc>A tia Flo está de visita e dá um presente para Stan: um peixe medonho. Com o tempo, começam a aparecer alguns cadáveres por aí, e a mãe de Stan tenta fingir que não tem nada a ver.
+</desc>
+<episode-num system="xmltv_ns">1.14</episode-num>
+</programme>
+<programme start="20250601202500 +0000" stop="20250601205200 +0000" channel="65df70b0f7f0af0008c3b316">
+<title>South Park - S3E2</title>
+<desc>Vários habitantes de South Park estão ficando cada vez mais furiosos, e sem alguma razão aparente. Randy é o principal responsável para descobrir uma solução para este problema. Enquanto isso, Kyle tenta "conseguir uma ereção".
+</desc>
+<episode-num system="xmltv_ns">2.1</episode-num>
+</programme>
+<programme start="20250601205200 +0000" stop="20250601211900 +0000" channel="65df70b0f7f0af0008c3b316">
+<title>South Park - S3E8</title>
+<desc>Stan tem que ir com os seus pais para uma festa chata repleta dos alunos menos populares do colégio, como Butters, Pip e Dougie. Enquanto isso, Randy e Gerald passam por uma situação um tanto quanto incômoda em uma jacuzzi.
+</desc>
+<episode-num system="xmltv_ns">2.7</episode-num>
+</programme>
+<programme start="20250601211900 +0000" stop="20250601214600 +0000" channel="65df70b0f7f0af0008c3b316">
+<title>South Park - S6E3</title>
+<desc>Já que Butters parece encaixar tão bem com Cartman, Kyle e Stan, seus pais decidem ir com eles para passar um final de semana em Aspen. Ao chegar em Aspen, Stan, que não é nada experiente, se vê forçado a competir contra um campeão de ski.
+</desc>
+<episode-num system="xmltv_ns">5.2</episode-num>
+</programme>
+<programme start="20250601214600 +0000" stop="20250601221200 +0000" channel="65df70b0f7f0af0008c3b316">
+<title>South Park - S6E16</title>
+<desc>Stan fuma uns cigarros de maconha que uns rapazes mais velhos deixaram e, pela noite, aparece um homem de 32 anos perdido e drogado que diz ser o Stan do futuro.
+</desc>
+<episode-num system="xmltv_ns">5.15</episode-num>
+</programme>
+<programme start="20250601221200 +0000" stop="20250601223900 +0000" channel="65df70b0f7f0af0008c3b316">
+<title>South Park - S7E12</title>
+<desc>Um novo aluno mórmon se muda à South Park, mas não se dá bem com ninguém. Os rapazes querem que Stan comece uma briga com ele, mas na verdade, ele acaba se tornando seu amigo.
+</desc>
+<episode-num system="xmltv_ns">6.11</episode-num>
+</programme>
+<programme start="20250601223900 +0000" stop="20250601230600 +0000" channel="65df70b0f7f0af0008c3b316">
+<title>South Park - S7E14</title>
+<desc>Wendy termina o seu relacionamento com Stan, e para ajudá-lo, os meninos o levam a um restaurante famoso por suas asas de frango e suas belas garçonetes. Mas o plano não funciona e Stan se une a um grupo de góticos.
+</desc>
+<episode-num system="xmltv_ns">6.13</episode-num>
+</programme>
+<programme start="20250601230600 +0000" stop="20250601233300 +0000" channel="65df70b0f7f0af0008c3b316">
+<title>South Park - S8E8</title>
+<desc>Os protetores dos animais se manifestam contra o uso de uma vaca como mascote da escola, e os estudantes se veem forçados a buscarem uma nova mascote, o que gera um conflito entre Cartman e Kyle, já que ambos tem ideias diferetes.
+</desc>
+<episode-num system="xmltv_ns">7.7</episode-num>
+</programme>
+<programme start="20250601233300 +0000" stop="20250602000000 +0000" channel="65df70b0f7f0af0008c3b316">
+<title>South Park - S8E14</title>
+<desc>Stan se encontra com alguns lindos animaizinhos do bosque, que pedem para ele alguns favores inocentes. Após ajudar todos eles, Stan descobre que na verdade eles tem um plano para trazer o anticristo para o mundo.
+</desc>
+<episode-num system="xmltv_ns">7.13</episode-num>
+</programme>
+<programme start="20250602000000 +0000" stop="20250602002700 +0000" channel="65df70b0f7f0af0008c3b316">
+<title>South Park - S9E8</title>
+<desc>Stan e Cartman acabam inundando um dos vilarejos próximos a South Park. Como resultado, a cidade de South Park é declarada em estado de emergência, já que todos acham que isso é obra do aquecimento global.
+</desc>
+<episode-num system="xmltv_ns">8.7</episode-num>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601135400 +0000" stop="20250601142100 +0000" channel="609ae66b359b270007869ff1">
 <title>South Park - S2E9</title>
@@ -36737,6 +37463,7 @@
 </desc>
 <episode-num system="xmltv_ns">2.1</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601074400 +0000" stop="20250601081400 +0000" channel="604b79c558393100078faeef">
 <title>Hunter x Hunter BR - S2E51</title>
 <desc>Os membros da Trupe Fantasma vão ao ninho de Zazan para derrotá-la. Enquanto lutam, cada membro da Trupe revela a sua habilidade secreta.
@@ -36808,6 +37535,85 @@
 <desc>Para proteger sua aldeia da argila explosiva de Deidara, Gaara usa seu chakra para criar um escudo. A aldeia é salva a um enorme custo. Gaara fica vulnerável. As tentativas de seus companheiros são inúteis, e Gaara acaba caindo nas mãos de Deidara.
 </desc>
 <episode-num system="xmltv_ns">0.34</episode-num>
+=======
+<programme start="20250601182400 +0000" stop="20250601185100 +0000" channel="609ae66b359b270007869ff1">
+<title>South Park - S3E3</title>
+<desc>Chef tem uma namorada nova e ao que parece, é uma relação séria. Agora os rapazes estão preocupados com isso. Enquanto isso, Cartman está com problemas nos olhos e odeia ter que ir ao seu oculista, que o chama de "porquinho".
+</desc>
+<episode-num system="xmltv_ns">2.2</episode-num>
+</programme>
+<programme start="20250601185100 +0000" stop="20250601191800 +0000" channel="609ae66b359b270007869ff1">
+<title>South Park - S3E4</title>
+<desc>Cartman, Kyle e Stan enganam Tweek e Craig para que eles lutem um contra o outro. Enquanto isso, um dos professores está sendo atormentado por uma recordação de sua falecida namorada, e Kenny conquista um homem rico na aula de cozinha.
+</desc>
+<episode-num system="xmltv_ns">2.3</episode-num>
+</programme>
+<programme start="20250601191800 +0000" stop="20250601194500 +0000" channel="609ae66b359b270007869ff1">
+<title>South Park - S3E5</title>
+<desc>Cartman descobre uma criatura em extinção durante um acampamento. No início, todos acham legal, mas em seguida, todos se dão conta que na verdade esta criatura, é na verdade, um animal pré-histórico extremamente chato.
+</desc>
+<episode-num system="xmltv_ns">2.4</episode-num>
+</programme>
+<programme start="20250601194500 +0000" stop="20250601201200 +0000" channel="609ae66b359b270007869ff1">
+<title>South Park - S3E6</title>
+<desc>A aula do senhor Garrison recebe uma visita: Petey, o panda do abuso sexual, que ensina tudo aos rapazes sobre o tema. Em seguida, Cartman decide processar Stan por chamá-lo de "chupa cu", e contrata o pai do Kyle para ser seu advogado.
+</desc>
+<episode-num system="xmltv_ns">2.5</episode-num>
+</programme>
+<programme start="20250601201200 +0000" stop="20250601203900 +0000" channel="609ae66b359b270007869ff1">
+<title>South Park - S3E7</title>
+<desc>A senhora Cartman vai para uma festa e deixa o seu filho sob os cuidados de Shelley. Agora, Cartman está preso em sua casa e precisa lidar com os abusos de Shelley, seu namorado de 22 anos e sua gata que está no cio.
+</desc>
+<episode-num system="xmltv_ns">2.6</episode-num>
+</programme>
+<programme start="20250601203900 +0000" stop="20250601210600 +0000" channel="609ae66b359b270007869ff1">
+<title>South Park - S3E8</title>
+<desc>Stan tem que ir com os seus pais para uma festa chata repleta dos alunos menos populares do colégio, como Butters, Pip e Dougie. Enquanto isso, Randy e Gerald passam por uma situação um tanto quanto incômoda em uma jacuzzi.
+</desc>
+<episode-num system="xmltv_ns">2.7</episode-num>
+</programme>
+<programme start="20250601210600 +0000" stop="20250601213300 +0000" channel="609ae66b359b270007869ff1">
+<title>South Park - S3E9</title>
+<desc>Na noite de chuva de meteoritos, Kyle, Kenny e Ike vão ao acampamento de exploradores judios, onde se encontram com Moisés, o cara que ama oferendas feitas de coisas estranhas com materiais esquisitos.
+</desc>
+<episode-num system="xmltv_ns">2.8</episode-num>
+</programme>
+<programme start="20250601213300 +0000" stop="20250601220000 +0000" channel="609ae66b359b270007869ff1">
+<title>South Park - S3E10</title>
+<desc>Os rapazes estão viciados em "Chinpokomon" (uma paródia de Pokémon) e querem comprar os bonecos, os jogos e qualquer outra coisa relacionada com eles.
+</desc>
+<episode-num system="xmltv_ns">2.9</episode-num>
+</programme>
+<programme start="20250601220000 +0000" stop="20250601222700 +0000" channel="609ae66b359b270007869ff1">
+<title>South Park - S3E11</title>
+<desc>Um garoto encontra uma nave espacial e a usa para escapar de um ritual critão na Etiópia, e buscar um novo lugar para ele e seu povo.
+</desc>
+<episode-num system="xmltv_ns">2.10</episode-num>
+</programme>
+<programme start="20250601222700 +0000" stop="20250601225400 +0000" channel="609ae66b359b270007869ff1">
+<title>South Park - S3E12</title>
+<desc>Kyle, Stan, Kenny e Cartman querem aproveitar a noite de Halloween para assustar os rapazes do quinto ano, então desenterram o cadáver da avó de Kyle. Enquanto isso, a banda Korn visita South Park.
+</desc>
+<episode-num system="xmltv_ns">2.11</episode-num>
+</programme>
+<programme start="20250601225400 +0000" stop="20250601232100 +0000" channel="609ae66b359b270007869ff1">
+<title>South Park - S3E13</title>
+<desc>A mãe de Cartman dá um presente para ajudá-lo a ganhar o concurso de soletrar. Trata-se de um "macaco da fonética". Neste concurso, os rapazes conhecem Marc e Rebecca, dois irmãos que não vão para a escola, pois estudam em suas casas.
+</desc>
+<episode-num system="xmltv_ns">2.12</episode-num>
+</programme>
+<programme start="20250601232100 +0000" stop="20250601234800 +0000" channel="609ae66b359b270007869ff1">
+<title>South Park - S3E14</title>
+<desc>Durante uma recreação sobre a guerra civil americana, Cartman lidera o exército dos Confederados para atacar os guerreiros da União do outro lado da América. Tudo isso para poder ganhar uma aposta de Kyle e Stan.
+</desc>
+<episode-num system="xmltv_ns">2.13</episode-num>
+</programme>
+<programme start="20250601234800 +0000" stop="20250602001600 +0000" channel="609ae66b359b270007869ff1">
+<title>South Park - S3E15</title>
+<desc>O senhor Hanckey apresenta dez musicais baseados em canções clássicas de Natal, cantadas por Kyle, Cartman, Stan, Kenny e todos os demais habitantes de South Park em seu próprio especial de Natal. Inclui os hits "Noite Feliz" e muito mais!
+</desc>
+<episode-num system="xmltv_ns">2.14</episode-num>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601133400 +0000" stop="20250601140200 +0000" channel="604b79c558393100078faeef">
 <title>Naruto Shippuden: O Falso Sorriso - S1E36</title>
@@ -36869,6 +37675,7 @@
 </desc>
 <episode-num system="xmltv_ns">3.101</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601075300 +0000" stop="20250601082000 +0000" channel="5f6df5a173d7340007c559f7">
 <title>Naruto: A Sombra De Orochimaru! - S1E146</title>
 <desc>Naruto descobre que Tsubaki é a pretendida de Mizuki. Ela tem uma ideia de onde ele pode estar e pede à equipe que a levem.
@@ -36946,6 +37753,53 @@
 <desc>Naruto é escolhido para liderar Konohamaru, Moegi e Udon num treinamento de sobrevivência. O destino é o Grande Rosto de Pedra de Warudakumi no topo do Monte Takurami.
 </desc>
 <episode-num system="xmltv_ns">0.157</episode-num>
+=======
+<programme start="20250601181300 +0000" stop="20250601184100 +0000" channel="604b79c558393100078faeef">
+<title>One Piece - S4E103</title>
+<desc>Luffy está caído e muito ferido, mas os gritos de Usopp inspiram o furioso revide do homem de borracha contra Rob Lucci.
+</desc>
+<episode-num system="xmltv_ns">3.102</episode-num>
+</programme>
+<programme start="20250601184100 +0000" stop="20250601190900 +0000" channel="604b79c558393100078faeef">
+<title>One Piece - S4E104</title>
+<desc>Com um líder exausto e seu navio de fuga destruído, o bando se vê com uma única saída: jogarem-se ao mar!
+</desc>
+<episode-num system="xmltv_ns">3.103</episode-num>
+</programme>
+<programme start="20250601190900 +0000" stop="20250601193700 +0000" channel="604b79c558393100078faeef">
+<title>One Piece - S4E105</title>
+<desc>Os Chapéus de Palha são resgatados por um velho companheiro, mas para sobreviver precisarão fugir de uma chuva de tiros.
+</desc>
+<episode-num system="xmltv_ns">3.104</episode-num>
+</programme>
+<programme start="20250601193700 +0000" stop="20250601200500 +0000" channel="604b79c558393100078faeef">
+<title>One Piece - S4E106</title>
+<desc>Os Chapéus de Palha dão penoso adeus ao bravo navio que foi seu lar e companheiro em tantas aventuras. Adeus, Going Merry!
+</desc>
+<episode-num system="xmltv_ns">3.105</episode-num>
+</programme>
+<programme start="20250601200500 +0000" stop="20250601203300 +0000" channel="604b79c558393100078faeef">
+<title>One Piece - S4E107</title>
+<desc>Os Chapéus de Palha ganham merecido descanso, e Franky faz um grande anúncio, enquanto Garp visita o neto!
+</desc>
+<episode-num system="xmltv_ns">3.106</episode-num>
+</programme>
+<programme start="20250601203300 +0000" stop="20250601210100 +0000" channel="604b79c558393100078faeef">
+<title>One Piece - S4E108</title>
+<desc>Os companheiros de Luffy se espantam em descobrir que seu avô é um herói de guerra, mas isso em nada se compara à descoberta da identidade do pai do Chapéu de Palha!
+</desc>
+<episode-num system="xmltv_ns">3.107</episode-num>
+</programme>
+<programme start="20250601210100 +0000" stop="20250601225500 +0000" channel="604b79c558393100078faeef">
+<title>Naruto Shippuden the Movie: Will of Fire</title>
+<desc>Quatro shinobi Kekkei Genkai que guardavam as Aldeias Ocultas da Nuvem, Pedra, Névoa e Areia desaparecem sem deixar vestígios. Enquanto isso, Naruto e os seus amigos descobrem más notícias: Kakashi deixou a vila.
+</desc>
+</programme>
+<programme start="20250601225500 +0000" stop="20250602003600 +0000" channel="604b79c558393100078faeef">
+<title>Naruto Shippuden the Movie: The Lost Tower</title>
+<desc>O Ninja Patife Mukade está prestes a ser capturado por Naruto, quando ele invoca o poder de um antigo canal subterrâneo de chakra. Naruto fica preso no chakra e é enviado de volta no tempo.
+</desc>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601134400 +0000" stop="20250601141100 +0000" channel="5f6df5a173d7340007c559f7">
 <title>Naruto: O Caçador De Recompensas Do Deserto! - S1E159</title>
@@ -37007,6 +37861,7 @@
 </desc>
 <episode-num system="xmltv_ns">0.167</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601074300 +0000" stop="20250601081100 +0000" channel="64c92f965580090008084968">
 <title>Naruto Shippuden: O Poder De Uchiha - S1E52</title>
 <desc>Os bonecos criados de humanos podem comandar o jutsu que o humano usava enquanto vivo. Assim, o boneco do terceiro kazekage converte chakras em poderes magnéticos. Chiyo e Sakura se protegem, Sasori faz um ataque implacável. Sakura toma uma decisão.
@@ -37084,6 +37939,85 @@
 <desc>Naruto fica enfurecido ao saber que Sai o atacou para testá-lo. Tsunade, Jiraiya, Yamatoe e Shizune se reunem no quarto de Kakashi. Jiraiya expõe o comportamento despreocupado de Naruto. Sai recebe um envelope misterioso do setor operacional da fundação.
 </desc>
 <episode-num system="xmltv_ns">1.63</episode-num>
+=======
+<programme start="20250601181400 +0000" stop="20250601184100 +0000" channel="5f6df5a173d7340007c559f7">
+<title>Naruto: Recordações : A Página Perdida - S1E169</title>
+<desc>O Demônio do Oceano está lançando o caos no País do Mar. Anko lidera um time com Naruto, Ino e Shino. É revelado que Anko possui uma história inesperada no País do Mar.
+</desc>
+<episode-num system="xmltv_ns">0.168</episode-num>
+</programme>
+<programme start="20250601184100 +0000" stop="20250601190800 +0000" channel="5f6df5a173d7340007c559f7">
+<title>Naruto: A Porta Fechada - S1E170</title>
+<desc>Incapaz de encontrar Naruto, Anko fala com os oficiais do País do Mar. O barco levando os fundos do governo que deviam proteger parte no dia seguinte!
+</desc>
+<episode-num system="xmltv_ns">0.169</episode-num>
+</programme>
+<programme start="20250601190800 +0000" stop="20250601193500 +0000" channel="5f6df5a173d7340007c559f7">
+<title>Naruto: Infiltração : A Armadilha! - S1E171</title>
+<desc>Assim que acordou, Anko começa a lembrar da Ilha do Demônio, um lugar que ela visitou uma vez com seu sensei, Orochimaru. Anko revela a verdade por trás dos desaparecimentos e do segredo sobre o corpo de Isaribi.
+</desc>
+<episode-num system="xmltv_ns">0.170</episode-num>
+</programme>
+<programme start="20250601193500 +0000" stop="20250601200200 +0000" channel="5f6df5a173d7340007c559f7">
+<title>Naruto: Desespero : Um Coração Partido! - S1E172</title>
+<desc>Amachi e sua gangue começam o ataque contra o navio do governo. Naruto e os outros escapam da Ilha do Demônio, mas o que eles encontram é a frota do País do Mar à beira da aniquilação.
+</desc>
+<episode-num system="xmltv_ns">0.171</episode-num>
+</programme>
+<programme start="20250601200200 +0000" stop="20250601202900 +0000" channel="5f6df5a173d7340007c559f7">
+<title>Naruto: Batalha No Mar : O Poder Liberado! - S1E173</title>
+<desc>Os ninjas da Folha e Amachi se enfrentam no mar. Com a ajuda de Naruto, Amachi é derrotado, mas um monstro aparece. Naruto invoca Gamabunta para derrotá-lo.
+</desc>
+<episode-num system="xmltv_ns">0.172</episode-num>
+</programme>
+<programme start="20250601202900 +0000" stop="20250601205600 +0000" channel="5f6df5a173d7340007c559f7">
+<title>Naruto: Impossível!Arte Ninja: Jutsu Estilo Dinheiro! - S1E174</title>
+<desc>Kunijiro visita Tsunade e escolhe Naruto para guiar seu garoto por um dia na vida de um ninja!
+</desc>
+<episode-num system="xmltv_ns">0.173</episode-num>
+</programme>
+<programme start="20250601205600 +0000" stop="20250601212300 +0000" channel="5f6df5a173d7340007c559f7">
+<title>Naruto: A Caça Ao Tesouro Começa! - S1E175</title>
+<desc>Agari Kaisen, um amigo de Tsunade, pede a Naruto, Kiba, e Hinata que procurem um tesouro escondido. Achando ser uma tarefa fácil por terem um mapa, Tsunade ameaça mandá-los de volta à Academia, se falharem.
+</desc>
+<episode-num system="xmltv_ns">0.174</episode-num>
+</programme>
+<programme start="20250601212300 +0000" stop="20250601215000 +0000" channel="5f6df5a173d7340007c559f7">
+<title>Naruto: Corra! Esquive-Se Em Zigue-Zague! Caçar Ou Ser Caçado! - S1E176</title>
+<desc>Depois de escaparem da caverna, Naruto e os outros vão atrás da clã Kedouin para impedir seu plano, mas a Aldeia Oculta da Folha já está sendo atacada.
+</desc>
+<episode-num system="xmltv_ns">0.175</episode-num>
+</programme>
+<programme start="20250601215000 +0000" stop="20250601221700 +0000" channel="5f6df5a173d7340007c559f7">
+<title>Naruto: Por Favor, Senhor Carteiro! - S1E177</title>
+<desc>Naruto descobre que Jiraiya está aprontando algo. Jiraiya diz que está ocupado preparando seu manuscrito antes do prazo final. Naruto, impaciente e irritado, escreve seu próprio manuscrito para Jiraiya!
+</desc>
+<episode-num system="xmltv_ns">0.176</episode-num>
+</programme>
+<programme start="20250601221700 +0000" stop="20250601224400 +0000" channel="5f6df5a173d7340007c559f7">
+<title>Naruto: Encontro! Um Menino Com Nome De Estrela - S1E178</title>
+<desc>A Aldeia Oculta nas Estrelas pede à Aldeia Oculta da Folha para proteger uma estrela. A estrela, na verdade, é um meteorito que caiu 200 anos atrás, e dizem que ela possui poderes misteriosos.
+</desc>
+<episode-num system="xmltv_ns">0.177</episode-num>
+</programme>
+<programme start="20250601224400 +0000" stop="20250601231100 +0000" channel="5f6df5a173d7340007c559f7">
+<title>Naruto: A Inesquecível Canção De Ninar - S1E179</title>
+<desc>Naruto e os outros investigam o paradeiro da estrela roubada. O time suspeita alguém da Aldeia Oculta nas Estrelas porque o ninja que roubou a estrela usou a arte ninja da aldeia, Kujaku.
+</desc>
+<episode-num system="xmltv_ns">0.178</episode-num>
+</programme>
+<programme start="20250601231100 +0000" stop="20250601233800 +0000" channel="5f6df5a173d7340007c559f7">
+<title>Naruto: Jutsu Oculto! O Preço Da Arte Ninja: Kujaku - S1E180</title>
+<desc>Akahoshi, o ninja mascarado que sequestrou Sumaru, pretende usar Sumaru para chamar o ninja misterioso que roubou a estrela.
+</desc>
+<episode-num system="xmltv_ns">0.179</episode-num>
+</programme>
+<programme start="20250601233800 +0000" stop="20250602000500 +0000" channel="5f6df5a173d7340007c559f7">
+<title>Naruto: Hoshikage : A Verdade Enterrada - S1E181</title>
+<desc>O ninja mascarado e Naruto caem nas profundezas do vale. Ao tratar as feridas de Naruto, o ninja mascarado conta o motivo de ter roubado a estrela.
+</desc>
+<episode-num system="xmltv_ns">0.180</episode-num>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601134700 +0000" stop="20250601141500 +0000" channel="64c92f965580090008084968">
 <title>Naruto Shippuden: Presa Na Escuridão - S2E65</title>
@@ -37145,6 +38079,7 @@
 </desc>
 <episode-num system="xmltv_ns">1.73</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601074800 +0000" stop="20250601081800 +0000" channel="656f389c3944b60008e5bdab">
 <title>Boruto: Naruto Next Generations - S1E147</title>
 <desc>Boruto e sua equipe lutam desesperadamente para proteger Kokuri, mas eles são atormentados pelo jutsu de Tsukiyo enquanto o tempo para fugir da prisão está prestes a acabar!
@@ -37216,6 +38151,79 @@
 <desc>Boruto e a equipe 7 recebem a missão de encontrar um pesquisador desaparecido de uma companhia de equipamentos médicos em uma nação distante.
 </desc>
 <episode-num system="xmltv_ns">0.157</episode-num>
+=======
+<programme start="20250601182700 +0000" stop="20250601185500 +0000" channel="64c92f965580090008084968">
+<title>Naruto Shippuden: A Oração Do Velho Monge - S2E75</title>
+<desc>Naruto fica chocado ao saber que foi o responsável pelos ferimentos de Sakura. Yamato diz que ele irá suprimir o poder da Raposa de Nove Caudas com seu ninjutsu. Sakura pergunta sobre uma história estranha que ela viu no livro de desenhos de Sai.
+</desc>
+<episode-num system="xmltv_ns">1.74</episode-num>
+</programme>
+<programme start="20250601185500 +0000" stop="20250601192300 +0000" channel="64c92f965580090008084968">
+<title>Naruto Shippuden: O Próximo Passo - S2E76</title>
+<desc>Sai estremece quando encontra Sasuke no esconderijo de Orochimaru. Sai ficará com Orochimaru em troca de algumas informações valiosas, mas ficará sob prisão domiciliar até que possa ser de confiança. Quando fica sozinho, sai e começa a procurar um livro.
+</desc>
+<episode-num system="xmltv_ns">1.75</episode-num>
+</programme>
+<programme start="20250601192300 +0000" stop="20250601195100 +0000" channel="64c92f965580090008084968">
+<title>Naruto Shippuden: Escalada De Prata - S2E77</title>
+<desc>A equipe Kakashi consegue achar Sai. Eles começam a interrogá-lo sobre os planos de Danzo, e Sai conta tudo. Sakura descobre, através das atitudes de Sai, alguns pontos fortes em seu subconsciente e assinala para Sai as contradições em seu comportamento.
+</desc>
+<episode-num system="xmltv_ns">1.76</episode-num>
+</programme>
+<programme start="20250601195100 +0000" stop="20250601201900 +0000" channel="64c92f965580090008084968">
+<title>Naruto Shippuden: O Julgamento - S2E78</title>
+<desc>Kabuto faz um ataque de surpresa na equipe Kakashi para levar Sai de volta. Com as informações que conseguem através de Kabuto, capturado, a procura por Sasuke está perto do fim. Naruto e Sakura correm para achar Sasuke.
+</desc>
+<episode-num system="xmltv_ns">1.77</episode-num>
+</programme>
+<programme start="20250601201900 +0000" stop="20250601204700 +0000" channel="64c92f965580090008084968">
+<title>Naruto Shippuden: Un Grito Interrompido - S2E79</title>
+<desc>Naruto procura por Sasuke. Sai lembra que teve um irmão mais velho e consegue terminar o retrato inacabado. Antes de desaparecer após um ataque de Orochimaru, Sai promete que salvará Sasuke. Yamato descobre uma verdade entre os pertences de Sai.
+</desc>
+<episode-num system="xmltv_ns">1.78</episode-num>
+</programme>
+<programme start="20250601204700 +0000" stop="20250601211500 +0000" channel="64c92f965580090008084968">
+<title>Naruto Shippuden: Últimas Palavras - S2E80</title>
+<desc>A equipe Kakashi fica chocada ao saber que a missão verdadeira de Sai é matar Sasuke. Sai alcança Sasuke - deve matá-lo ou salvá-lo? Sai e Sasuke se enfrentam, demolindo uma parte do esconderijo. Naruto e os outros encontram Sasuke.
+</desc>
+<episode-num system="xmltv_ns">1.79</episode-num>
+</programme>
+<programme start="20250601211500 +0000" stop="20250601214300 +0000" channel="64c92f965580090008084968">
+<title>Naruto Shippuden: Notícias Tristes - S2E81</title>
+<desc>A equipe Kakashi tem seu desejo atendido ao reencontrar Sasuke, mas Sasuke não mudou. Seu objetivo é se vingar de seu irmão mais velho, Itachi. Os impulsos da Raposa de Nove Caudas incitam Naruto, mas Sasuke usa seu sharingan para suprimir a raposa.
+</desc>
+<episode-num system="xmltv_ns">1.80</episode-num>
+</programme>
+<programme start="20250601214300 +0000" stop="20250601221100 +0000" channel="64c92f965580090008084968">
+<title>Naruto Shippuden: Equipe Dez - S2E82</title>
+<desc>O desejo de Sasuke por vingança continua firme. Naruto fica chateado quando percebe que fracassou mais uma vez em levar Sasuke para casa. Orochimaru tem mais ou menos seis meses até sua transferência. A equipe Kakashi faz uma nova promessa.
+</desc>
+<episode-num system="xmltv_ns">1.81</episode-num>
+</programme>
+<programme start="20250601221100 +0000" stop="20250601223900 +0000" channel="64c92f965580090008084968">
+<title>Naruto Shippuden: Alvo Na Mira! - S2E83</title>
+<desc>Kakashi e a equipe dez partem para deter o akatsuki. Tsunade considera a equipe dez de naruto com o respaldo ideal para a equipe dez e manda naruto aperfeiçoar seu novo jutsu em 24 horas.
+</desc>
+<episode-num system="xmltv_ns">1.82</episode-num>
+</programme>
+<programme start="20250601223900 +0000" stop="20250601230700 +0000" channel="64c92f965580090008084968">
+<title>Naruto Shippuden: As Habilidades De Kakuzu - S2E84</title>
+<desc>Shikamaru e choji dão os primeiros golpes na batalha, mas estão contrariados com o poder de kakuzu.
+</desc>
+<episode-num system="xmltv_ns">1.83</episode-num>
+</programme>
+<programme start="20250601230700 +0000" stop="20250601233500 +0000" channel="64c92f965580090008084968">
+<title>Naruto Shippuden: O Terrível Segredo - S2E85</title>
+<desc>Shikamaru e seus companheiros desesperadamente contra-atacam a ofensiva do jutsu de fogo. Mas usar continuamente rasengan e a espada relâmpago causa desgaste em kakashi.
+</desc>
+<episode-num system="xmltv_ns">1.84</episode-num>
+</programme>
+<programme start="20250601233500 +0000" stop="20250602000300 +0000" channel="64c92f965580090008084968">
+<title>Naruto Shippuden: O Gênio Shikamaru - S2E86</title>
+<desc>Shikamaru enfrenta hidan sozinho, no fundo da floresta e após gastar todo seu chakra, ele tem um ferimento profundo.
+</desc>
+<episode-num system="xmltv_ns">1.85</episode-num>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601134800 +0000" stop="20250601141800 +0000" channel="656f389c3944b60008e5bdab">
 <title>Boruto: Naruto Next Generations - S1E159</title>
@@ -37271,6 +38279,7 @@
 </desc>
 <episode-num system="xmltv_ns">0.166</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601074000 +0000" stop="20250601080900 +0000" channel="65d9167818036500080e8780">
 <title>Hunter x Hunter BR - S2E39</title>
 <desc>Kite, Gon e Killua continuam usando Nen para seguir Hagya até o ninho das Formigas Quimera.
@@ -37348,6 +38357,79 @@
 <desc>Os membros da Trupe Fantasma vão ao ninho de Zazan para derrotá-la. Enquanto lutam, cada membro da Trupe revela a sua habilidade secreta.
 </desc>
 <episode-num system="xmltv_ns">1.50</episode-num>
+=======
+<programme start="20250601181800 +0000" stop="20250601184800 +0000" channel="656f389c3944b60008e5bdab">
+<title>Boruto: Naruto Next Generations - S1E168</title>
+<desc>Boruto e Sarada começam um treinamento intensivo após experimentarem a derrota.
+</desc>
+<episode-num system="xmltv_ns">0.167</episode-num>
+</programme>
+<programme start="20250601184800 +0000" stop="20250601191800 +0000" channel="656f389c3944b60008e5bdab">
+<title>Boruto: Naruto Next Generations - S1E169</title>
+<desc>A equipe 10 de Shikadai, Inojin e Chocho recebe uma missão conjunta com Shinki, Yodo e Araya da Aldeia da Areia para encontrar e recuperar um Boneco Otsutsuki que Shikadai enfrentou uma vez.
+</desc>
+<episode-num system="xmltv_ns">0.168</episode-num>
+</programme>
+<programme start="20250601191800 +0000" stop="20250601194800 +0000" channel="656f389c3944b60008e5bdab">
+<title>Boruto: Naruto Next Generations - S1E170</title>
+<desc>Shikadai, que já sentiu o poder aterrorizante de Deepa, diz a Boruto que uma revanche com Deepa seria imprudente.
+</desc>
+<episode-num system="xmltv_ns">0.169</episode-num>
+</programme>
+<programme start="20250601194800 +0000" stop="20250601201800 +0000" channel="656f389c3944b60008e5bdab">
+<title>Boruto: Naruto Next Generations - S1E171</title>
+<desc>Sob a supervisão de Kakashi, Boruto consegue desenvolver o seu próprio estilo de Rasengan. Sasuke e Sakura trocam de lugar para treinar a filha.
+</desc>
+<episode-num system="xmltv_ns">0.170</episode-num>
+</programme>
+<programme start="20250601201800 +0000" stop="20250601204800 +0000" channel="656f389c3944b60008e5bdab">
+<title>Boruto: Naruto Next Generations - S1E172</title>
+<desc>Iwabe, Denki e Metal visitam Boruto no hospital após ele ter treinado demais.
+</desc>
+<episode-num system="xmltv_ns">0.171</episode-num>
+</programme>
+<programme start="20250601204800 +0000" stop="20250601211800 +0000" channel="656f389c3944b60008e5bdab">
+<title>Boruto: Naruto Next Generations - S1E173</title>
+<desc>Konohamaru e Mugino recebem informações de que o Senhor Feudal do País dos Vales fará uma visita à companhia, dando a eles a oportunidade de conferir o interior dessa instalação secreta.
+</desc>
+<episode-num system="xmltv_ns">0.172</episode-num>
+</programme>
+<programme start="20250601211800 +0000" stop="20250601214800 +0000" channel="656f389c3944b60008e5bdab">
+<title>Boruto: Naruto Next Generations - S1E174</title>
+<desc>Boruto e Sarada correm para o laboratório de pesquisa de Victor, onde encontram uma planta horripilante roubando o chakra das pessoas próximas a ela.
+</desc>
+<episode-num system="xmltv_ns">0.173</episode-num>
+</programme>
+<programme start="20250601214800 +0000" stop="20250601221800 +0000" channel="656f389c3944b60008e5bdab">
+<title>Boruto: Naruto Next Generations - S1E175</title>
+<desc>Separado de Boruto e Sarada, Konohamaru enfrenta Victor. Mas uma pessoa inesperada aparece para lutar ao lado dele.
+</desc>
+<episode-num system="xmltv_ns">0.174</episode-num>
+</programme>
+<programme start="20250601221800 +0000" stop="20250601224800 +0000" channel="656f389c3944b60008e5bdab">
+<title>Boruto: Naruto Next Generations - S1E176</title>
+<desc>Konohamaru e seus colegas de equipe relatam a descoberta de que a Kara recebe a assistência de membros externos, e que essas pessoas se infiltraram secretamente nas Cinco Grandes Nações Shinobi.
+</desc>
+<episode-num system="xmltv_ns">0.175</episode-num>
+</programme>
+<programme start="20250601224800 +0000" stop="20250601231800 +0000" channel="656f389c3944b60008e5bdab">
+<title>Boruto: Naruto Next Generations - S1E177</title>
+<desc>O Clã Yamanaka, que tem rastreado o tráfego de entrada e saída da aldeia com suas habilidades sensoriais avançadas, lidera um plano para criar um sistema sensorial novo.
+</desc>
+<episode-num system="xmltv_ns">0.176</episode-num>
+</programme>
+<programme start="20250601231800 +0000" stop="20250601234800 +0000" channel="656f389c3944b60008e5bdab">
+<title>Boruto: Naruto Next Generations - S1E178</title>
+<desc>Um serviço funerário está sendo realizado em memória dos muitos que morreram na Quarta Grande Guerra Ninja.
+</desc>
+<episode-num system="xmltv_ns">0.177</episode-num>
+</programme>
+<programme start="20250601234800 +0000" stop="20250602001800 +0000" channel="656f389c3944b60008e5bdab">
+<title>Boruto: Naruto Next Generations - S1E179</title>
+<desc>Uma organização misteriosa conhecida como Kara está prestes a entrar no estágio seguinte do seu plano, que envolve um item crucial chamado de "Receptáculo".
+</desc>
+<episode-num system="xmltv_ns">0.178</episode-num>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601140000 +0000" stop="20250601143000 +0000" channel="65d9167818036500080e8780">
 <title>Hunter x Hunter BR - S2E52</title>
@@ -37403,6 +38485,7 @@
 </desc>
 <episode-num system="xmltv_ns">2.4</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601075200 +0000" stop="20250601082100 +0000" channel="625464a945b6a200079257d1">
 <title>Death Note - S1E5</title>
 <desc>Soichiro Yagami exige uma reunião em pessoa com L quando ele descobre que ele secretamente levou agentes do FBI para o Japão.
@@ -37474,6 +38557,79 @@
 <desc>Misa está presa, embora suas lembranças do Death Note tenham sido excluídas.
 </desc>
 <episode-num system="xmltv_ns">0.15</episode-num>
+=======
+<programme start="20250601183000 +0000" stop="20250601190000 +0000" channel="65d9167818036500080e8780">
+<title>Hunter x Hunter BR - S3E6</title>
+<desc>Morel foi perseguido até uma igreja subterrânea pela Formiga Quimera parecida com um leão, Leol.
+</desc>
+<episode-num system="xmltv_ns">2.5</episode-num>
+</programme>
+<programme start="20250601190000 +0000" stop="20250601193000 +0000" channel="65d9167818036500080e8780">
+<title>Hunter x Hunter BR - S3E7</title>
+<desc>Gon e Killua ganharam novos aliados e se preparam para se juntar à batalha.
+</desc>
+<episode-num system="xmltv_ns">2.6</episode-num>
+</programme>
+<programme start="20250601193000 +0000" stop="20250601200000 +0000" channel="65d9167818036500080e8780">
+<title>Hunter x Hunter BR - S3E8</title>
+<desc>Faltando apenas mais um dia para a seleção, Gon, Killua e Ikalgo repassam a estratégia deles.
+</desc>
+<episode-num system="xmltv_ns">2.7</episode-num>
+</programme>
+<programme start="20250601200000 +0000" stop="20250601203000 +0000" channel="65d9167818036500080e8780">
+<title>Hunter x Hunter BR - S3E9</title>
+<desc>Welfin, uma Formiga Quimera parecida com um lobo, percebeu que alguém se infiltrou no palácio. Com o seu olfato aguçado, ele rastreia os intrusos.
+</desc>
+<episode-num system="xmltv_ns">2.8</episode-num>
+</programme>
+<programme start="20250601203000 +0000" stop="20250601210000 +0000" channel="65d9167818036500080e8780">
+<title>Hunter x Hunter BR - S3E10</title>
+<desc>A batalha entre os humanos e as Formigas Quimera está prestes a começar.
+</desc>
+<episode-num system="xmltv_ns">2.9</episode-num>
+</programme>
+<programme start="20250601210000 +0000" stop="20250601213000 +0000" channel="65d9167818036500080e8780">
+<title>Hunter x Hunter BR - S3E11</title>
+<desc>O ataque repentino de Zeno e Netero coloca o palácio em confusão. Preocupado com a segurança do Rei, Pitou e Pouf correm para o lado do rei.
+</desc>
+<episode-num system="xmltv_ns">2.10</episode-num>
+</programme>
+<programme start="20250601213000 +0000" stop="20250601220000 +0000" channel="65d9167818036500080e8780">
+<title>Hunter x Hunter BR - S3E12</title>
+<desc>Youpi se transforma e divide o grupo com o seu ataque. Morel deixa Shoot e Knuckle cuidarem das coisas enquanto ele procura pelo Rei.
+</desc>
+<episode-num system="xmltv_ns">2.11</episode-num>
+</programme>
+<programme start="20250601220000 +0000" stop="20250601223000 +0000" channel="65d9167818036500080e8780">
+<title>Hunter x Hunter BR - S3E13</title>
+<desc>O Rei enfrenta Netero e Zeno.
+</desc>
+<episode-num system="xmltv_ns">2.12</episode-num>
+</programme>
+<programme start="20250601223000 +0000" stop="20250601230000 +0000" channel="65d9167818036500080e8780">
+<title>Hunter x Hunter BR - S3E14</title>
+<desc>Knuckle aparece de repente diante de Youpi para lutar contra ele.
+</desc>
+<episode-num system="xmltv_ns">2.13</episode-num>
+</programme>
+<programme start="20250601230000 +0000" stop="20250601233000 +0000" channel="65d9167818036500080e8780">
+<title>Hunter x Hunter BR - S3E15</title>
+<desc>As palavras enigmáticas de Zeno para Killua e Gon tornam-se claras quando eles chegam na torre.
+</desc>
+<episode-num system="xmltv_ns">2.14</episode-num>
+</programme>
+<programme start="20250601233000 +0000" stop="20250602000000 +0000" channel="65d9167818036500080e8780">
+<title>Hunter x Hunter BR - S3E16</title>
+<desc>Sentindo a necessidade de dar um soco em Youpi para vingar o seu amigo Shoot, Knuckle decide enfrentar o Youpi mais uma vez.
+</desc>
+<episode-num system="xmltv_ns">2.15</episode-num>
+</programme>
+<programme start="20250602000000 +0000" stop="20250602003000 +0000" channel="65d9167818036500080e8780">
+<title>Hunter x Hunter BR - S3E17</title>
+<desc>Ikalgo lê a mensagem oculta de Palm, que diz que ela foi ao palácio e para presumir que ela está morta se não responder antes do início da missão.
+</desc>
+<episode-num system="xmltv_ns">2.16</episode-num>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601133300 +0000" stop="20250601140200 +0000" channel="625464a945b6a200079257d1">
 <title>Death Note - S1E17</title>
@@ -37535,6 +38691,7 @@
 </desc>
 <episode-num system="xmltv_ns">0.25</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601073400 +0000" stop="20250601080200 +0000" channel="63988c2750108d00072e2686">
 <title>Super Onze - S1E76</title>
 <desc>Após os dois jogos, o Inazuma Japan teve uma boa ideia de como é o nível mundial. Para avançar para o torneio mundial, eles precisarão desenvolver novas técnicas.
@@ -37611,6 +38768,78 @@
 <desc>Vendo que era apenas um disfarce, Basile desafia os jogadores da Academia Real, apontando os tênis pontiagudos, dizendo que estão trapaceando. A partir daí, a moral da Academia Real e os jogadores começam a desmoronar.
 </desc>
 <episode-num system="xmltv_ns">0.9</episode-num>
+=======
+<programme start="20250601182300 +0000" stop="20250601185200 +0000" channel="625464a945b6a200079257d1">
+<title>Death Note - S1E27</title>
+<desc>Aparece um novo investigador, Near, uma figura central na SPK, uma organização dedicada a pegar Kira sem depender de L.
+</desc>
+<episode-num system="xmltv_ns">0.26</episode-num>
+</programme>
+<programme start="20250601185200 +0000" stop="20250601192100 +0000" channel="625464a945b6a200079257d1">
+<title>Death Note - S1E28</title>
+<desc>Light atuando como L, revela a Near que sua irmã Sayu foi raptada por alguém que quer trocá-la por um Death Note.
+</desc>
+<episode-num system="xmltv_ns">0.27</episode-num>
+</programme>
+<programme start="20250601192100 +0000" stop="20250601195000 +0000" channel="625464a945b6a200079257d1">
+<title>Death Note - S1E29</title>
+<desc>Light tenta descobrir onde Mello e da máfia se escondem.
+</desc>
+<episode-num system="xmltv_ns">0.28</episode-num>
+</programme>
+<programme start="20250601195000 +0000" stop="20250601201900 +0000" channel="625464a945b6a200079257d1">
+<title>Death Note - S1E30</title>
+<desc>Mello entra na sede da SPK para recuperar uma foto dele e certificar-se de não ser morto por Kira.
+</desc>
+<episode-num system="xmltv_ns">0.29</episode-num>
+</programme>
+<programme start="20250601201900 +0000" stop="20250601204800 +0000" channel="625464a945b6a200079257d1">
+<title>Death Note - S1E31</title>
+<desc>Near contata o novo quartel geral da força especial e determina que Kira está entre os seus integrantes.
+</desc>
+<episode-num system="xmltv_ns">0.30</episode-num>
+</programme>
+<programme start="20250601204800 +0000" stop="20250601211700 +0000" channel="625464a945b6a200079257d1">
+<title>Death Note - S1E32</title>
+<desc>A estrela locutora de notícias Kiyomi Takada se torna a porta-voz mundial de Kira.
+</desc>
+<episode-num system="xmltv_ns">0.31</episode-num>
+</programme>
+<programme start="20250601211700 +0000" stop="20250601214600 +0000" channel="625464a945b6a200079257d1">
+<title>Death Note - S1E33</title>
+<desc>Light tem como objetivo investigar Kiyomi, enquanto os integrantes do corpo especial escutam pelo auto-falante.
+</desc>
+<episode-num system="xmltv_ns">0.32</episode-num>
+</programme>
+<programme start="20250601214600 +0000" stop="20250601221500 +0000" channel="625464a945b6a200079257d1">
+<title>Death Note - S1E34</title>
+<desc>Aizawa percebe o que está acontecendo e alerta Near, o qual já sabia sobre as notas.
+</desc>
+<episode-num system="xmltv_ns">0.33</episode-num>
+</programme>
+<programme start="20250601221500 +0000" stop="20250601224400 +0000" channel="625464a945b6a200079257d1">
+<title>Death Note - S1E35</title>
+<desc>Light dá a Kiyomi a ordem para matar Near.
+</desc>
+<episode-num system="xmltv_ns">0.34</episode-num>
+</programme>
+<programme start="20250601224400 +0000" stop="20250601231300 +0000" channel="625464a945b6a200079257d1">
+<title>Death Note - S1E36</title>
+<desc>De acordo com o acerto, Near e o SPK se encontram com Light e o corpo especial em um armazém.
+</desc>
+<episode-num system="xmltv_ns">0.35</episode-num>
+</programme>
+<programme start="20250601231300 +0000" stop="20250601234200 +0000" channel="625464a945b6a200079257d1">
+<title>Death Note - S1E37</title>
+<desc>Embora Mikami tenha escrito os nomes de todos no Death Note, estavam vivos. Near consegue o Death Note e tudo é revelado.
+</desc>
+<episode-num system="xmltv_ns">0.36</episode-num>
+</programme>
+<programme start="20250601234200 +0000" stop="20250602001100 +0000" channel="625464a945b6a200079257d1">
+<title>Death Note</title>
+<desc>O brilhante, mas entediado estudante da escola Light Yagami encontra-se mantendo o poder da vida e da morte em suas mãos, o Death Note.
+</desc>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601133400 +0000" stop="20250601140200 +0000" channel="63988c2750108d00072e2686">
 <title>Super Onze: Ares no Tenbin - S1E11</title>
@@ -37672,6 +38901,7 @@
 </desc>
 <episode-num system="xmltv_ns">0.19</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601075000 +0000" stop="20250601081500 +0000" channel="63988a50be012600070f5db3">
 <title>Yu-Gi-Oh! Classic BR - S3E18</title>
 <desc>A Arca de Shinato de Noah rouba monstros para dentro de seu forte para usá-los como uma muralha impenetrável de servos!
@@ -37755,6 +38985,84 @@
 <desc>Marik transforma o Dragão Alado de Rá em sua forma poderosa, o deus egípcio Fênix! Se Joey não aguentar as chamas infernais do fogo ardente de Fênix, ele será torrado e perderá o duelo...
 </desc>
 <episode-num system="xmltv_ns">2.30</episode-num>
+=======
+<programme start="20250601181000 +0000" stop="20250601183700 +0000" channel="63988c2750108d00072e2686">
+<title>Super Onze: Ares no Tenbin - S1E21</title>
+<desc>Após a vitória sobre a Academia Alia, Raimon conseguiu! No dia seguinte, eles recebem incentivos das pessoas no distrito comercial, bem como do presidente da Turismo Island, de que podem vencer se continuarem
+</desc>
+<episode-num system="xmltv_ns">0.20</episode-num>
+</programme>
+<programme start="20250601183700 +0000" stop="20250601190400 +0000" channel="63988c2750108d00072e2686">
+<title>Super Onze: Ares no Tenbin - S1E22</title>
+<desc>A partida semifinal entre Raimon e Colégio Everytown chegou. A equipe de Raimon joga-se ativamente no sentido de atacar o lendário e inigualável goleiro capitão, Mark Evans.
+</desc>
+<episode-num system="xmltv_ns">0.21</episode-num>
+</programme>
+<programme start="20250601190400 +0000" stop="20250601193100 +0000" channel="63988c2750108d00072e2686">
+<title>Super Onze: Ares no Tenbin - S1E23</title>
+<desc>Os jogadores de Raimon estão divididos em sua resposta ao perfeito trabalho de equipe exibido pelo Colégio Everytown e pela liderança de Mark Evans.
+</desc>
+<episode-num system="xmltv_ns">0.22</episode-num>
+</programme>
+<programme start="20250601193100 +0000" stop="20250601195900 +0000" channel="63988c2750108d00072e2686">
+<title>Super Onze: Ares no Tenbin - S1E24</title>
+<desc>A partida final do Football Frontier entre Raimon e Lua Nova é tudo o que resta. Antes do jogo, Heath se encontra com o presidente da Gekko Electronics e líder do programa Juízo de Ares.
+</desc>
+<episode-num system="xmltv_ns">0.23</episode-num>
+</programme>
+<programme start="20250601195900 +0000" stop="20250601202600 +0000" channel="63988c2750108d00072e2686">
+<title>Super Onze: Ares no Tenbin - S1E25</title>
+<desc>É o grande confronto final entre Raimon e Lua Nova. Essa partida vai definir tudo! Imediatamente, Heath ordena a tática proibida, Furacão Ômega, jogando os jogadores de Raimon no chão.
+</desc>
+<episode-num system="xmltv_ns">0.24</episode-num>
+</programme>
+<programme start="20250601202600 +0000" stop="20250601205300 +0000" channel="63988c2750108d00072e2686">
+<title>Super Onze: Ares no Tenbin - S1E26</title>
+<desc>A partida de Raimon e Lua Nova chegou a metade. Durante o intervalo, Heath encoraja seus colegas de time e os faz lembrar do que está em jogo.
+</desc>
+<episode-num system="xmltv_ns">0.25</episode-num>
+</programme>
+<programme start="20250601205300 +0000" stop="20250601212200 +0000" channel="63988c2750108d00072e2686">
+<title>Super Onze</title>
+<desc>O clube de futebol há muito negligenciado do Raimon Junior High recebe subitamente um pedido para jogar uma partida contra a lendária Academia Teikoku! Mas há um problema!
+</desc>
+</programme>
+<programme start="20250601212200 +0000" stop="20250601215100 +0000" channel="63988c2750108d00072e2686">
+<title>Super Onze - S1E2</title>
+<desc>Raimon tem sua primeira partida de treinos. A desvantagem é que eles devem enfrentar o time número um no Japãn a Academia Teikoku.
+</desc>
+<episode-num system="xmltv_ns">0.1</episode-num>
+</programme>
+<programme start="20250601215100 +0000" stop="20250601222000 +0000" channel="63988c2750108d00072e2686">
+<title>Super Onze - S1E3</title>
+<desc>A equipe de Raimon está juntando tudo depois da luta contra o Teikoku! Mas Someoka está com ciúmes por ele não ter uma técnica de hissatsu como Gouenji.
+</desc>
+<episode-num system="xmltv_ns">0.2</episode-num>
+</programme>
+<programme start="20250601222000 +0000" stop="20250601224900 +0000" channel="63988c2750108d00072e2686">
+<title>Super Onze - S1E4</title>
+<desc>A partida contra o Occult está prestes a começar! Mas antes disso, Gouenji se junta à equipe e Someoka fica irritado com isso.
+</desc>
+<episode-num system="xmltv_ns">0.3</episode-num>
+</programme>
+<programme start="20250601224900 +0000" stop="20250601231800 +0000" channel="63988c2750108d00072e2686">
+<title>Super Onze - S1E5</title>
+<desc>O Torneio de Futebol Fronteira está prestes a começar e Raimon enfrenta os assustadores saltadores do Nosei Junior High em seu primeiro jogo.
+</desc>
+<episode-num system="xmltv_ns">0.4</episode-num>
+</programme>
+<programme start="20250601231800 +0000" stop="20250601234700 +0000" channel="63988c2750108d00072e2686">
+<title>Super Onze - S1E6</title>
+<desc>Todos, menos Kabeyama, estão empolgados e prontos para o grande jogo contra o Nose. O medo de altura de Kabeyama está atrapalhando.
+</desc>
+<episode-num system="xmltv_ns">0.5</episode-num>
+</programme>
+<programme start="20250601234700 +0000" stop="20250602001600 +0000" channel="63988c2750108d00072e2686">
+<title>Super Onze - S1E7</title>
+<desc>O Raimon está treinando duro para o próximo jogo na fronteira do futebol e as pessoas estão começando a espioná-lo; incluindo seus próximos oponentes - Mikage Sennou Junior High.
+</desc>
+<episode-num system="xmltv_ns">0.6</episode-num>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601134000 +0000" stop="20250601140400 +0000" channel="63988a50be012600070f5db3">
 <title>Yu-Gi-Oh! Classic BR - S3E32</title>
@@ -37822,6 +39130,7 @@
 </desc>
 <episode-num system="xmltv_ns">2.41</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601074400 +0000" stop="20250601081600 +0000" channel="646663b01593940008990a57">
 <title>Captain Tsubasa: Junior Youth Arc - S1E20</title>
 <desc>No segundo jogo das semifinais o Japão enfrenta os anfitriões da França em um estádio cheio de fãs locais fervorosos. Mesmo assim, através de um ataque combinado que rouba a bola do furioso capitão francês, Pierre, que parece estar tramando algo...
@@ -37893,6 +39202,91 @@
 <desc>O Chute de Fogo de Schneider acaba com a esperança japonesa pelo primeiro gol, mas Hyuga já planeja o contragolpe. Com a ajuda de Tsubasa, ele está prestes a relevar algo que ninguém esperava: o chute mais potente da história do futebol!
 </desc>
 <episode-num system="xmltv_ns">0.30</episode-num>
+=======
+<programme start="20250601181900 +0000" stop="20250601184400 +0000" channel="63988a50be012600070f5db3">
+<title>Yu-Gi-Oh! Classic BR - S3E43</title>
+<desc>É Obelisco, o Atormentador vs... Obelisco, o Atormentador? Yugi não pode atingir os pontos de vida de Marik porque o indestrutível Deus Egípcio Limo de Marik ressuscita a cada turno!
+</desc>
+<episode-num system="xmltv_ns">2.42</episode-num>
+</programme>
+<programme start="20250601184400 +0000" stop="20250601190900 +0000" channel="63988a50be012600070f5db3">
+<title>Yu-Gi-Oh! Classic BR - S3E44</title>
+<desc>Mesmo com a força de ataque infinita de Obelisco, o Atormentador, Yugi não consegue derrotar O Dragão Alado de Rá!
+</desc>
+<episode-num system="xmltv_ns">2.43</episode-num>
+</programme>
+<programme start="20250601190900 +0000" stop="20250601193400 +0000" channel="63988a50be012600070f5db3">
+<title>Yu-Gi-Oh! Classic BR - S3E45</title>
+<desc>O Dragão Alado de Ráa de Marik destruiu tanto Slifer, o Dragão Celeste, quanto Obelisco, o Atormentador!
+</desc>
+<episode-num system="xmltv_ns">2.44</episode-num>
+</programme>
+<programme start="20250601193400 +0000" stop="20250601195800 +0000" channel="63988a50be012600070f5db3">
+<title>Yu-Gi-Oh! Classic BR - S3E46</title>
+<desc>A Ilha da KaibaCorp explodirá em questão de minutos, mas os motores do dirigível estão quebrados! Como se já não fosse ruim, Kaiba e Mokuba desapareceram! Será que Yugi e seus amigos escaparão da ilha a tempo ou afundarão para o fundo do mar?
+</desc>
+<episode-num system="xmltv_ns">2.45</episode-num>
+</programme>
+<programme start="20250601195800 +0000" stop="20250601202300 +0000" channel="63988a50be012600070f5db3">
+<title>Yu-Gi-Oh! Classic BR - S3E47</title>
+<desc>Enquanto Téa e Serenity passeiam pela cidade de Domino e relembram as batalhas de seus amigos durante o Torneio da Cidade de Batalhas, elas veem quanto cresceram e como chegaram longe... e como ainda falta tanto a percorrer!
+</desc>
+<episode-num system="xmltv_ns">2.46</episode-num>
+</programme>
+<programme start="20250601202300 +0000" stop="20250601204800 +0000" channel="63988a50be012600070f5db3">
+<title>Yu-Gi-Oh! Classic BR - S4E1</title>
+<desc>As três cartas de deuses egípcios são roubadas! Aparece um novo vilão aterrorizante! E, como se as coisas não pudessem piorar, monstros reais começam a aparecer ao redor do mundo, aterrorizando a população!
+</desc>
+<episode-num system="xmltv_ns">3.0</episode-num>
+</programme>
+<programme start="20250601204800 +0000" stop="20250601211300 +0000" channel="63988a50be012600070f5db3">
+<title>Yu-Gi-Oh! Classic BR - S4E2</title>
+<desc>Com o Selo de Orichalcos, Gurimo não só pode ter dez monstros no campo ao mesmo tempo, mas cada criatura recebe carga extra de poder das energias malévolas de Orichalcos!
+</desc>
+<episode-num system="xmltv_ns">3.1</episode-num>
+</programme>
+<programme start="20250601211300 +0000" stop="20250601213800 +0000" channel="63988a50be012600070f5db3">
+<title>Yu-Gi-Oh! Classic BR - S4E3</title>
+<desc>Não só nosso mundo está à beira do apocalipse, mas todo um domínio de monstros também está à beira do colapso!
+</desc>
+<episode-num system="xmltv_ns">3.2</episode-num>
+</programme>
+<programme start="20250601213800 +0000" stop="20250601220300 +0000" channel="63988a50be012600070f5db3">
+<title>Yu-Gi-Oh! Classic BR - S4E4</title>
+<desc>Fica muito confuso quando inimigos se tornam amigos... e amigos se tornam inimigos! Yugi e sua turma partem em uma jornada pelo país quando um antigo inimigo caolho lhes pede ajuda!
+</desc>
+<episode-num system="xmltv_ns">3.3</episode-num>
+</programme>
+<programme start="20250601220300 +0000" stop="20250601222700 +0000" channel="63988a50be012600070f5db3">
+<title>Yu-Gi-Oh! Classic BR - S4E5</title>
+<desc>Kaiba retorna ao Reino dos Duelistas para um confronto contra Pegasus! Usando seus mais novos e loucos terrores Toon, Pegasus está pronto para repetir sua vitória contra Kaiba!
+</desc>
+<episode-num system="xmltv_ns">3.4</episode-num>
+</programme>
+<programme start="20250601222700 +0000" stop="20250601225100 +0000" channel="63988a50be012600070f5db3">
+<title>Yu-Gi-Oh! Classic BR - S4E6</title>
+<desc>O poderoso demônio de Alister não só ganha pontos de ataque para cada monstro destruído, mas também pode assumir o controle dos monstros de Kaiba!
+</desc>
+<episode-num system="xmltv_ns">3.5</episode-num>
+</programme>
+<programme start="20250601225100 +0000" stop="20250601231600 +0000" channel="63988a50be012600070f5db3">
+<title>Yu-Gi-Oh! Classic BR - S4E7</title>
+<desc>A caminho de Ilusões Industriais, Yugi e seus amigos são emboscados por um bando de bandidos de motocicleta - até que a amiga favorita deles vem disparando ao resgate deles nas asas de sua Lady Harpia!
+</desc>
+<episode-num system="xmltv_ns">3.6</episode-num>
+</programme>
+<programme start="20250601231600 +0000" stop="20250601234100 +0000" channel="63988a50be012600070f5db3">
+<title>Yu-Gi-Oh! Classic BR - S4E8</title>
+<desc>Será possível?! Mai se juntou ao inimigo! Usando a feitiçaria sinistra do Selo de Orichalcos, Mai claramente pretende prender a alma de Joey, seguindo o plano mestre malévolo de Dartz!
+</desc>
+<episode-num system="xmltv_ns">3.7</episode-num>
+</programme>
+<programme start="20250601234100 +0000" stop="20250602000600 +0000" channel="63988a50be012600070f5db3">
+<title>Yu-Gi-Oh! Classic BR - S4E9</title>
+<desc>Aproveitando as habilidades arcanas do Selo de Orichalcos, Mai coordena suas Ladies Harpia em formações de combate devastadoras para reduzir as forças de Joey a lixo!
+</desc>
+<episode-num system="xmltv_ns">3.8</episode-num>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601133800 +0000" stop="20250601140700 +0000" channel="646663b01593940008990a57">
 <title>Captain Tsubasa: Junior Youth Arc - S1E32</title>
@@ -37947,6 +39341,7 @@
 <desc>Tsubasa Ozora, um apaixonado por futebol, conhece Ryo Ishizaki, que disputa com o goleiro Genzo Wakabayashi o direito de usar o campo.
 </desc>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601075100 +0000" stop="20250601081700 +0000" channel="633dc392e0282400071b0d39">
 <title>Beyblade G-Revolution - S3E33</title>
 <desc>Um garoto chamado Kyoujyu se torna amigo de Takao, e eles percebem que precisam de um Beyblade mais rápido para derrotar o mais pesado de Hiruta.
@@ -38030,6 +39425,85 @@
 <desc>Um garoto chamado Kyoujyu se torna amigo de Takao, e eles percebem que precisam de um Beyblade mais rápido para derrotar o mais pesado de Hiruta.
 </desc>
 <episode-num system="xmltv_ns">2.45</episode-num>
+=======
+<programme start="20250601181100 +0000" stop="20250601184000 +0000" channel="646663b01593940008990a57">
+<title>Super Campeões: Captain Tsubasa - S1E2</title>
+<desc>Tsubasa consegue marcar um gol para Genzo e perde o desafio. Enfurecido, exige revanche e o desafia, mas em uma partida oficial do Torneio Escolar.
+</desc>
+<episode-num system="xmltv_ns">0.1</episode-num>
+</programme>
+<programme start="20250601184000 +0000" stop="20250601190900 +0000" channel="646663b01593940008990a57">
+<title>Super Campeões: Captain Tsubasa - S1E3</title>
+<desc>Roberto convida o time de Nishigaoka para uma partida de treinamento que lhe permita analisar as fraquezas do time de Nankatsu e ajudá-los a melhorar
+</desc>
+<episode-num system="xmltv_ns">0.2</episode-num>
+</programme>
+<programme start="20250601190900 +0000" stop="20250601193800 +0000" channel="646663b01593940008990a57">
+<title>Super Campeões: Captain Tsubasa - S1E4</title>
+<desc>Tsubasa está feliz por ter Roberto como hóspede; porém, Roberto esconde um problema, e o verdadeiro motivo da sua viagem para o Japão é descoberto.
+</desc>
+<episode-num system="xmltv_ns">0.3</episode-num>
+</programme>
+<programme start="20250601193800 +0000" stop="20250601200700 +0000" channel="646663b01593940008990a57">
+<title>Super Campeões: Captain Tsubasa - S1E5</title>
+<desc>O torneio começa, e o time de Nankatsu continua seu treinamento, espionando um jogo particular do time de Shutetsu para analisar seu estilo de jogo.
+</desc>
+<episode-num system="xmltv_ns">0.4</episode-num>
+</programme>
+<programme start="20250601200700 +0000" stop="20250601203600 +0000" channel="646663b01593940008990a57">
+<title>Super Campeões: Captain Tsubasa - S1E6</title>
+<desc>Taro Misaki é um prodígio do futebol que teve que mudar de escola constantemente; agora, ele tem que ficar em Nankatsu e vai à escola se matricular.
+</desc>
+<episode-num system="xmltv_ns">0.5</episode-num>
+</programme>
+<programme start="20250601203600 +0000" stop="20250601210500 +0000" channel="646663b01593940008990a57">
+<title>Super Campeões: Captain Tsubasa - S1E7</title>
+<desc>Nankatsu está jogando contra Shutetsu e ninguém consege marcar um gol. Roberto coloca Tsubasa na defesa. Misake percebe que isso equilibra o time.
+</desc>
+<episode-num system="xmltv_ns">0.6</episode-num>
+</programme>
+<programme start="20250601210500 +0000" stop="20250601213400 +0000" channel="646663b01593940008990a57">
+<title>Super Campeões: Captain Tsubasa - S1E8</title>
+<desc>A partida continua. Wakabayashi ordena o uso da estratégia "Bird Cage" para garantir a vitória. Ishizaki consegue pegar a bola e a passa para Tsubasa.
+</desc>
+<episode-num system="xmltv_ns">0.7</episode-num>
+</programme>
+<programme start="20250601213400 +0000" stop="20250601220300 +0000" channel="646663b01593940008990a57">
+<title>Super Campeões: Captain Tsubasa - S1E9</title>
+<desc>A partida termina. Parecia que o time de Shutetsu venceria, mas graças à determinação de Tsubasa, Misaki e os outros, conseguiram empatar o placar.
+</desc>
+<episode-num system="xmltv_ns">0.8</episode-num>
+</programme>
+<programme start="20250601220300 +0000" stop="20250601223200 +0000" channel="646663b01593940008990a57">
+<title>Super Campeões: Captain Tsubasa - S1E10</title>
+<desc>O capitão da equipe de Meiwa, Kojiro Hyuga, decide deixar seu time depois de ser criticado por seus companheiros por seu estilo de jogo agressivo
+</desc>
+<episode-num system="xmltv_ns">0.9</episode-num>
+</programme>
+<programme start="20250601223200 +0000" stop="20250601230100 +0000" channel="646663b01593940008990a57">
+<title>Super Campeões: Captain Tsubasa - S1E11</title>
+<desc>Começa a partida de Nankatsu contra Shimada. Tsubasa e os outros atacam com confiança, mas se surpreendem com a verdadeira força de Shimada: a defesa.
+</desc>
+<episode-num system="xmltv_ns">0.10</episode-num>
+</programme>
+<programme start="20250601230100 +0000" stop="20250601233000 +0000" channel="646663b01593940008990a57">
+<title>Super Campeões: Captain Tsubasa - S1E12</title>
+<desc>Finalmente, será decidido qual time representará a Prefeitura de Shizuoka. O time vencedor viajará para Tóquio para competir no torneio nacional.
+</desc>
+<episode-num system="xmltv_ns">0.11</episode-num>
+</programme>
+<programme start="20250601233000 +0000" stop="20250601235900 +0000" channel="646663b01593940008990a57">
+<title>Super Campeões: Captain Tsubasa - S1E13</title>
+<desc>O time de Nankatsu ganha a partida e o direito de participar do torneio nacional. Tsubasa, agora capitão, terá que encarar os melhores times.
+</desc>
+<episode-num system="xmltv_ns">0.12</episode-num>
+</programme>
+<programme start="20250601235900 +0000" stop="20250602002800 +0000" channel="646663b01593940008990a57">
+<title>Super Campeões: Captain Tsubasa - S1E14</title>
+<desc>A primeira partida do torneio começou. Ambas os times jogam com determinação, mas Hyuga é ofuscada pelas habilidades de Tsubasa e fica enfurecida.
+</desc>
+<episode-num system="xmltv_ns">0.13</episode-num>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601135500 +0000" stop="20250601142100 +0000" channel="633dc392e0282400071b0d39">
 <title>Beyblade G-Revolution - S3E47</title>
@@ -38090,6 +39564,7 @@
 </desc>
 <episode-num system="xmltv_ns">0.3</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601073900 +0000" stop="20250601080800 +0000" channel="624b1c8d4321e200073ee421">
 <title>One Piece - S3E21</title>
 <desc>Os Chapéus de Palha já sabem o que é viver do outro lado da lei, mas taxas de imigração não pagas e o ataque de Nami a um Boina Branca garantem a Luffy uma sentença de morte!
@@ -38167,6 +39642,85 @@
 <desc>Os Chapéus de Palha se separam para buscar o ouro, e Wyper está decidido a fazer a investida final ao Santuário de Deus de Enel!
 </desc>
 <episode-num system="xmltv_ns">2.32</episode-num>
+=======
+<programme start="20250601181800 +0000" stop="20250601184500 +0000" channel="633dc392e0282400071b0d39">
+<title>Beyblade Burst - S1E5</title>
+<desc>Daigo finge ser um fã de Valt e o desafia para uma partida amistosa. Valt fica irritado quando descobre que os motivos de Daigo não eram tão amistosos quanto pareciam. Ele promete melhorar seu Lançamento Impetuoso.
+</desc>
+<episode-num system="xmltv_ns">0.4</episode-num>
+</programme>
+<programme start="20250601184500 +0000" stop="20250601191100 +0000" channel="633dc392e0282400071b0d39">
+<title>Beyblade Burst - S1E6</title>
+<desc>A mãe de Valt encontra maneiras criativas para ajudá-lo a treinar para as batalhas que estão por vir. O Clube de Beyblade Beigoma ganha aprovação temporária. Valt precisa encarar a maior vulnerabilidade do Lançamento Impetuoso.
+</desc>
+<episode-num system="xmltv_ns">0.5</episode-num>
+</programme>
+<programme start="20250601191100 +0000" stop="20250601193800 +0000" channel="633dc392e0282400071b0d39">
+<title>Beyblade Burst - S1E7</title>
+<desc>Valt está frustrado porque não consegue repetir sua nova técnica de lançamento. Waliya ordena que Hoji entregue o jogo contra Valt, mas Hoji fica profundamente magoado. Valt fica sabendo dos planos de Wakiya e o confronta.
+</desc>
+<episode-num system="xmltv_ns">0.6</episode-num>
+</programme>
+<programme start="20250601193800 +0000" stop="20250601200500 +0000" channel="633dc392e0282400071b0d39">
+<title>Beyblade Burst - S1E8</title>
+<desc>Valt e Hoji travam uma batalha na quarta rodada do Torneio Distrital. Hoji adiciona uma nova manobra poderosa à sua técnica de lançamento.
+</desc>
+<episode-num system="xmltv_ns">0.7</episode-num>
+</programme>
+<programme start="20250601200500 +0000" stop="20250601203200 +0000" channel="633dc392e0282400071b0d39">
+<title>Beyblade Burst - S1E9</title>
+<desc>Valt está aprendendo a importância de controlar suas emoções durante as partidas, porque isso ele ainda não dominou.
+</desc>
+<episode-num system="xmltv_ns">0.8</episode-num>
+</programme>
+<programme start="20250601203200 +0000" stop="20250601205900 +0000" channel="633dc392e0282400071b0d39">
+<title>Beyblade Burst - S1E10</title>
+<desc>Valt não consegue tirar Wakyia da cabeça. Seus amigos tentam lembrá-lo do que se trata o Beyblade, mas será que ele vai conseguir reavivar seu amor pelo jogo? Enquanto isso, Shu tem más notícias, mas não sabe como dizer aos seus amigos.
+</desc>
+<episode-num system="xmltv_ns">0.9</episode-num>
+</programme>
+<programme start="20250601205900 +0000" stop="20250601212500 +0000" channel="633dc392e0282400071b0d39">
+<title>Beyblade Burst - S1E11</title>
+<desc>Para curar seu ombro, Shu foi severamente aconselhado a parar com o Beyblade ou terá que arcar com as consequências.
+</desc>
+<episode-num system="xmltv_ns">0.10</episode-num>
+</programme>
+<programme start="20250601212500 +0000" stop="20250601215200 +0000" channel="633dc392e0282400071b0d39">
+<title>Beyblade Burst - S1E12</title>
+<desc>Valt e Wakyia estão em uma batalha complicada no Torneio Distrital. Inspirado pela técnica de lançamento do Shu, Valt encontra uma maneira de impulsionar a velocidade do Valtryek e força Wakiya a reavaliar suas habilidades.
+</desc>
+<episode-num system="xmltv_ns">0.11</episode-num>
+</programme>
+<programme start="20250601215200 +0000" stop="20250601221900 +0000" channel="633dc392e0282400071b0d39">
+<title>Beyblade Burst - S1E13</title>
+<desc>Valt e Wakyia estão em uma batalha complicada no Torneio Distrital. Inspirado pela técnica de lançamento do Shu, Valt encontra uma maneira de impulsionar a velocidade do Valtryek e força Wakiya a reavaliar suas habilidades.
+</desc>
+<episode-num system="xmltv_ns">0.12</episode-num>
+</programme>
+<programme start="20250601221900 +0000" stop="20250601224500 +0000" channel="633dc392e0282400071b0d39">
+<title>Beyblade Burst - S1E14</title>
+<desc>Valt tem problemas para se preparar para a batalha que vem pela frente ao saber do segredo do Shu. Os dois ficam frente a frente quando Valt dá um ultimato ao Shu. Um antigo amigo de infância chega para assistir a batalha final.
+</desc>
+<episode-num system="xmltv_ns">0.13</episode-num>
+</programme>
+<programme start="20250601224500 +0000" stop="20250601231100 +0000" channel="633dc392e0282400071b0d39">
+<title>Beyblade Burst - S1E15</title>
+<desc>A final do torneio distrital esquenta, colocando o feroz lançamento relâmpago de Valt contra no lançamento ascendente de Shu.
+</desc>
+<episode-num system="xmltv_ns">0.14</episode-num>
+</programme>
+<programme start="20250601231100 +0000" stop="20250601233800 +0000" channel="633dc392e0282400071b0d39">
+<title>Beyblade Burst - S1E16</title>
+<desc>Valt e o restante do grupo viajam até o campo de treinamento da família de Xander nas montanhas para encontrar Shu. Xander mostra sua arena de Bey customizada e Valt concorda em travar uma batalha.
+</desc>
+<episode-num system="xmltv_ns">0.15</episode-num>
+</programme>
+<programme start="20250601233800 +0000" stop="20250602000500 +0000" channel="633dc392e0282400071b0d39">
+<title>Beyblade Burst - S1E17</title>
+<desc>Xander leva Valt e a equipe para um treinamento intenso. Quando Rantaro o desafia para uma batalha, ele percebe que poder ser tão difícil superar Xander a arena de Bey quanto no treinamento com obstáculos.
+</desc>
+<episode-num system="xmltv_ns">0.16</episode-num>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601135600 +0000" stop="20250601142500 +0000" channel="624b1c8d4321e200073ee421">
 <title>One Piece - S3E34</title>
@@ -38222,6 +39776,7 @@
 </desc>
 <episode-num system="xmltv_ns">2.41</episode-num>
 </programme>
+<<<<<<< HEAD
 <programme start="20250601075500 +0000" stop="20250601082400 +0000" channel="5ff609de50ab210008025c1b">
 <title>O Fantástico Jaspion - S1E44</title>
 <desc>ApÃ³s a metamorfose Satan Goss exerce seu grande poder alterando a superfÃ­cie da Terra e transformando-a numa floresta de monstros gigantes.
@@ -38293,6 +39848,79 @@
 <desc>O ninja turco Haburamu encontra uma espada macabra em catacumbas na Turquia. Sem querer, ressuscita a ninja bruxa Luana que quer transformar o mundo em um mar de sangue.
 </desc>
 <episode-num system="xmltv_ns">0.14</episode-num>
+=======
+<programme start="20250601181800 +0000" stop="20250601184700 +0000" channel="624b1c8d4321e200073ee421">
+<title>One Piece - S3E43</title>
+<desc>Para finalizar a batalha, Zoro lança mão do poder destrutivo da Fênix dos 108 Desejos Mundanos contra o Sacerdote Ohm! Em outra parte da ilha, Enel exige que Robin a ajude a desvendar mistérios antigos de Shandora.
+</desc>
+<episode-num system="xmltv_ns">2.42</episode-num>
+</programme>
+<programme start="20250601184700 +0000" stop="20250601191600 +0000" channel="624b1c8d4321e200073ee421">
+<title>One Piece - S3E44</title>
+<desc>O Deus Enel inicia um ataque mortal para exterminar os seres vivos em Skypiea, tornando as ruínas de Shandora uma batalha sangrenta onde a sobrevivência está em jogo.
+</desc>
+<episode-num system="xmltv_ns">2.43</episode-num>
+</programme>
+<programme start="20250601191600 +0000" stop="20250601194500 +0000" channel="624b1c8d4321e200073ee421">
+<title>One Piece - S3E45</title>
+<desc>Gan Fall, Wyper, Zoro e Robin se unem para atacar Enel. Apesar de sua furiosa investida, os quatro guerreiros são incapazes de deter a deidade do relâmpago, até que Wyper usa o poder de uma pedra mística!
+</desc>
+<episode-num system="xmltv_ns">2.44</episode-num>
+</programme>
+<programme start="20250601194500 +0000" stop="20250601201400 +0000" channel="624b1c8d4321e200073ee421">
+<title>One Piece - S3E46</title>
+<desc>O Deus Enel se recupera incrivelmente das feridas que deveriam colocar fim ao seu reinado de terror. Zoro e Wyper unem forças para uma investida final, e Nami deve escolher entre seus companheiros e sua própria sobrevivência.
+</desc>
+<episode-num system="xmltv_ns">2.45</episode-num>
+</programme>
+<programme start="20250601201400 +0000" stop="20250601204300 +0000" channel="624b1c8d4321e200073ee421">
+<title>One Piece - S3E47</title>
+<desc>Luffy escapa da serpente e, diante do que aconteceu nas ruínas, só pensa em vingança! O Chapéu de Palha avança para confrontar Enel!
+</desc>
+<episode-num system="xmltv_ns">2.46</episode-num>
+</programme>
+<programme start="20250601204300 +0000" stop="20250601211200 +0000" channel="624b1c8d4321e200073ee421">
+<title>One Piece - S3E48</title>
+<desc>Enquanto os cidadãos do céu fogem, Enel conjura Deathpiea! Luffy está determinado a deter o tirano, mas primeiro precisa descobrir como pôr as mãos em Deus!
+</desc>
+<episode-num system="xmltv_ns">2.47</episode-num>
+</programme>
+<programme start="20250601211200 +0000" stop="20250601214100 +0000" channel="624b1c8d4321e200073ee421">
+<title>One Piece - S3E49</title>
+<desc>Um punhado de ouro pode ser a ruína de Luffy, Sanji e Usopp formam um time de resgate aéreo e Nami se prepara para um confronto eletrizante contra o Deus Enel!
+</desc>
+<episode-num system="xmltv_ns">2.48</episode-num>
+</programme>
+<programme start="20250601214100 +0000" stop="20250601221000 +0000" channel="624b1c8d4321e200073ee421">
+<title>One Piece - S3E50</title>
+<desc>Usopp e Sanji embarcam a Arca Maxim para salvar Nami, e o pirata mentiroso chega bem a tempo de impedir que a gatuna seja dilacerada por um ataque do Deus Enel! Enquanto isso, onde foi parar o cozinheiro?
+</desc>
+<episode-num system="xmltv_ns">2.49</episode-num>
+</programme>
+<programme start="20250601221000 +0000" stop="20250601223900 +0000" channel="624b1c8d4321e200073ee421">
+<title>One Piece - S3E51</title>
+<desc>Apesar do globo de ouro que o prende, Luffy sobe o pé de feijão gigante para acertar as contas com Enel, enquanto o povo da ilha encara a cólera de Deus!
+</desc>
+<episode-num system="xmltv_ns">2.50</episode-num>
+</programme>
+<programme start="20250601223900 +0000" stop="20250601230800 +0000" channel="624b1c8d4321e200073ee421">
+<title>One Piece - S3E52</title>
+<desc>Um vislumbre das vidas de duas lendas da história de Skypiea - Montblanc Noland e o Grande Guerreiro Calgara!
+</desc>
+<episode-num system="xmltv_ns">2.51</episode-num>
+</programme>
+<programme start="20250601230800 +0000" stop="20250601233700 +0000" channel="624b1c8d4321e200073ee421">
+<title>One Piece - S3E53</title>
+<desc>A saga de Montblanc Noland e Calgara segue com a história de como dois homens tão distintos desenvolveram sua amizade tão rapidamente quanto a perderam!
+</desc>
+<episode-num system="xmltv_ns">2.52</episode-num>
+</programme>
+<programme start="20250601233700 +0000" stop="20250602000600 +0000" channel="624b1c8d4321e200073ee421">
+<title>One Piece - S3E54</title>
+<desc>Montblanc Noland e Calgara conseguem superar suas diferenças antes de dizerem adeus, mas outras forças conspiram para separá-los para sempre!
+</desc>
+<episode-num system="xmltv_ns">2.53</episode-num>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 </programme>
 <programme start="20250601133400 +0000" stop="20250601140200 +0000" channel="5ff609de50ab210008025c1b">
 <title>Jiraiya: O Incrível Ninja - S1E16</title>
@@ -38354,6 +39982,94 @@
 </desc>
 <episode-num system="xmltv_ns">0.29</episode-num>
 </programme>
+<<<<<<< HEAD
+=======
+<programme start="20250601181500 +0000" stop="20250601184400 +0000" channel="5ff609de50ab210008025c1b">
+<title>Kamen Rider Black RX - S1E31</title>
+<desc>Uma motoqueira com jaqueta vermelha passa por Issamu durante uma perseguição com Gatezon.
+ A motoqueira em questão é Yuko Midorikawa.
+</desc>
+<episode-num system="xmltv_ns">0.30</episode-num>
+</programme>
+<programme start="20250601184400 +0000" stop="20250601191300 +0000" channel="5ff609de50ab210008025c1b">
+<title>Kamen Rider Black RX - S1E32</title>
+<desc>Maribaron obteve a chave para o Mundo Kaima.
+ Issamu procura desesperadamente por Yuko, que tinha uma das peças que formava tal chave.
+</desc>
+<episode-num system="xmltv_ns">0.31</episode-num>
+</programme>
+<programme start="20250601191300 +0000" stop="20250601194200 +0000" channel="5ff609de50ab210008025c1b">
+<title>Kamen Rider Black RX - S1E33</title>
+<desc>O General Jark anuncia uma nova operação: a criação da Crisislândia, a primeira base terrestre de Crisis.
+ O alvo é a Grande Ponte Setoo, na ilha de Shikoku.
+</desc>
+<episode-num system="xmltv_ns">0.32</episode-num>
+</programme>
+<programme start="20250601194200 +0000" stop="20250601201100 +0000" channel="5ff609de50ab210008025c1b">
+<title>Kamen Rider Black RX - S1E34</title>
+<desc>E mais uma vez o Império Crisis coloca a pequena ilha de Shikoku como alvo principal.
+ Crianças com poderes psíquicos estão sendo raptadas uma após a outra por um misterioso homem velho.
+ O que Crisis planeja com essas crianças? Qual o destino de Shikoku?
+</desc>
+<episode-num system="xmltv_ns">0.33</episode-num>
+</programme>
+<programme start="20250601201100 +0000" stop="20250601204000 +0000" channel="5ff609de50ab210008025c1b">
+<title>Kamen Rider Black RX - S1E35</title>
+<desc>Crisis iniciou uma operação que consiste na invasão de sistemas, e agora o sistema da polícia está em suas mãos.
+ Pessoas inocentes estão sendo presas uma após a outra e Issamu também é uma delas.
+</desc>
+<episode-num system="xmltv_ns">0.34</episode-num>
+</programme>
+<programme start="20250601204000 +0000" stop="20250601210900 +0000" channel="5ff609de50ab210008025c1b">
+<title>Kamen Rider Black RX - S1E36</title>
+<desc>Surge um misterioso mascarado em cena, seu nome é Grande Máscara.
+ Ele começa a derrotar campeões de diversas modalidades, um após o outro, tornando-se facilmente o novo ídolo das crianças.
+</desc>
+<episode-num system="xmltv_ns">0.35</episode-num>
+</programme>
+<programme start="20250601210900 +0000" stop="20250601213800 +0000" channel="5ff609de50ab210008025c1b">
+<title>Kamen Rider Black RX - S1E37</title>
+<desc>No pacífico Vilarejo Fujimura, uma espécie de OVNI aparece e começa a atacar os moradores.
+</desc>
+<episode-num system="xmltv_ns">0.36</episode-num>
+</programme>
+<programme start="20250601213800 +0000" stop="20250601220600 +0000" channel="5ff609de50ab210008025c1b">
+<title>Jiraiya: O Incrível Ninja - S1E34</title>
+<desc>Uma misteriosa luz envolve a família Yamaji . Qual será o maior perigo de todos que o pote de herança prevê? E qual será o segredo da inscrição?
+</desc>
+<episode-num system="xmltv_ns">0.33</episode-num>
+</programme>
+<programme start="20250601220600 +0000" stop="20250601223400 +0000" channel="5ff609de50ab210008025c1b">
+<title>Jiraiya: O Incrível Ninja - S1E35</title>
+<desc>Surge o Deus Jirai, que se manifestou para defender Toha da família de Feitceiros que invocou o monstro gigante Yonma. Deus Jirai seria a entidade protetora de Jiraiya? Algo extraordinário está para acontecer! Lute Jiraiya!
+</desc>
+<episode-num system="xmltv_ns">0.34</episode-num>
+</programme>
+<programme start="20250601223400 +0000" stop="20250601230200 +0000" channel="5ff609de50ab210008025c1b">
+<title>Jiraiya: O Incrível Ninja - S1E36</title>
+<desc>Em um canto obscuro da cidade grande uma sombra negra move-se sorrateiramente. Jiraiya investiga incidentes que ocorreram segundo as previsões de um médium suspeito. Será que este médium tem alguma previsão para nosso ninja?
+</desc>
+<episode-num system="xmltv_ns">0.35</episode-num>
+</programme>
+<programme start="20250601230200 +0000" stop="20250601233000 +0000" channel="5ff609de50ab210008025c1b">
+<title>Jiraiya: O Incrível Ninja - S1E37</title>
+<desc>Jiraya procura respostas sobre o paradeiro do tesouro do século através das escrituras do Deus Jirai. Porém, Dokosai também está atrás do tesouro e Jiraya fará de tudo para protegê-lo. Go Jiraya!
+</desc>
+<episode-num system="xmltv_ns">0.36</episode-num>
+</programme>
+<programme start="20250601233000 +0000" stop="20250601235800 +0000" channel="5ff609de50ab210008025c1b">
+<title>Jiraiya: O Incrível Ninja - S1E38</title>
+<desc>A família de Feiticeiros mais uma vez tentar exterminar Jiraya e é resgatado por seus amigos. Morgana retorna e se reúne com Dokosai para encontrar Pako e destruir o Deus Jirai.
+</desc>
+<episode-num system="xmltv_ns">0.37</episode-num>
+</programme>
+<programme start="20250601235800 +0000" stop="20250602002600 +0000" channel="5ff609de50ab210008025c1b">
+<title>Jiraiya: O Incrível Ninja - S1E39</title>
+<desc>A academia de Jiraya não vai muito bem e surge uma nova academia de ninjas. A diretora da escola é Morgana e aprisiona todas as crianças reprovadas para entrar na escola. O que será que ela está tramando? Jiraya conseguirá salvar as crianças?
+</desc>
+<episode-num system="xmltv_ns">0.38</episode-num>
+</programme>
+>>>>>>> 1bf598d2663b57dc420f8ed11cbc99974b0b4f92
 <channel id="beIN Sports (English).us"><display-name>beIN Sports (English).us</display-name><icon src="https://images.open-epg.com/28570.png" /></channel>
 <channel id="BET Gospel.us"><display-name>BET Gospel.us</display-name><icon src="https://images.open-epg.com/28572.png" /></channel>
 <channel id="BET Soul.us"><display-name>BET Soul.us</display-name><icon src="https://images.open-epg.com/28575.png" /></channel>
