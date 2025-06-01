@@ -65,23 +65,22 @@ def filter_and_build_epg(urls):
                     subtitle_element = programme.find('sub-title')
                     if subtitle_element is not None and subtitle_element.text:
                         title_element.text = subtitle_element.text
-                if title_element.text.startswith("One Piece - "):
-                    title_element.text = title_element.text.replace("One Piece - ", "", 1)
-                # Se for "One Piece" sem traço e tiver episode-num
-                elif title_element.text.strip() == "One Piece":
-                    episode_num = programme.find('episode-num')
-                    if episode_num is not None and episode_num.text:
-                        title_element.text = episode_num.text
 
-                # ➕ Adiciona (ano) do <date> ao final do título
-                date_element = programme.find('date')
-                if date_element is not None and date_element.text:
-                    year = date_element.text.strip()
-                    # Evita duplicação caso já esteja presente
-                    if f"({year})" not in title_element.text:
-                        title_element.text = f"{title_element.text.strip()}, ({year})"
-            root.append(programme)
+                if title_element is not None and title_element.text:
+                    if title_element.text.startswith("One Piece - "):
+                        title_element.text = title_element.text.replace("One Piece - ", "", 1)
+                    elif title_element.text.strip() == "One Piece":
+                        episode_num = programme.find('episode-num')
+                        if episode_num is not None and episode_num.text:
+                            title_element.text = episode_num.text
 
+                    date_element = programme.find('date')
+                    if date_element is not None and date_element.text:
+                        year = date_element.text.strip()
+                        if f"({year})" not in title_element.text:
+                            title_element.text = f"{title_element.text.strip()}, ({year})"
+
+                root.append(programme)
     tree = ET.ElementTree(root)
     tree.write(output_file, encoding='utf-8', xml_declaration=True)
     print(f"Salvo em {output_file}")
