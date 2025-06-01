@@ -57,6 +57,21 @@ def filter_and_build_epg(urls):
                     channel.append(new_display_name)
                 root.append(channel)
 
+
+        special_tvg_ids = {
+            'OuterMax.east.us',
+            'Showtime Extreme - Pacific (859).us',
+            'Showtime.Women.HD.-.Eastern.us',
+            'MGM+.HDTV.(East).(MGM+HD).us',
+            'MGM+.Hits.HDTV.(East).(MGM+HTHD).us',
+            'MGM+.Drive-In.(MGM+DI).us',
+            'Crave2.-.East.ca',
+            'Crave4.ca',
+            'Lifetime.Movies.-.East.us',
+            'Paramount.Network.USA.-.Eastern.Feed.us',
+            'Hallmark.Drama.HDTV.(HALDRHD).us'
+        }
+        
         for programme in epg_data.findall('programme'):
             tvg_id = programme.get('channel')
             if tvg_id in valid_tvg_ids:
@@ -71,7 +86,7 @@ def filter_and_build_epg(urls):
                     if title_element is not None and desc_element is not None and desc_element.text:
                         title_element.text = desc_element.text.strip()
 
-                if tvg_id == 'OuterMax.east.us' and title_element is not None:
+                if tvg_id in special_tvg_ids and title_element is not None:
                     date_element = programme.find('date')
                     year = date_element.text.strip() if date_element is not None and date_element.text else None
 
