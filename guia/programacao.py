@@ -90,7 +90,7 @@ def filter_and_build_epg(urls):
             'Crave4.ca',
             'Lifetime.Movies.-.East.us',
             'Paramount.Network.USA.-.Eastern.Feed.us',
-            'Hallmark.Drama.HDTV.(HALDRHD).us'
+            'Hallmark.Drama.HDTV.(HALDRHD).us',
             '5f120e94a5714d00074576a1',
             '5f120f41b7d403000783a6d6',
             '61b790b985706b00072cb797',
@@ -159,7 +159,7 @@ def filter_and_build_epg(urls):
                     if subtitle_element is not None and subtitle_element.text:
                         title_element.text = subtitle_element.text
 
-                if tvg_id == '624b1c8d4321e200073ee421':
+                if tvg_id in desc_ids:
                     desc_element = programme.find('desc')
                     if title_element is not None and desc_element is not None and desc_element.text:
                         title_element.text = desc_element.text.strip()
@@ -179,7 +179,7 @@ def filter_and_build_epg(urls):
                     ]
                     
                     categories = [
-                        c for c in raw_categories if c.lower() not in ('movie', 'series')
+                        c for c in raw_categories if c.lower() not in ('movie', 'series','movies')
                     ]
                     category = categories[0] if categories else None
 
