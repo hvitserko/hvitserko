@@ -146,31 +146,6 @@ def filter_and_build_epg(urls):
             '5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba',
             '5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9',
             '5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf26',
-            '604b79c558393100078faeef',
-            '5f6df5a173d7340007c559f7',
-            '64c92f965580090008084968',
-            '656f389c3944b60008e5bdab',
-            '65d9167818036500080e8780',
-            '625464a945b6a200079257d1',
-            '63988c2750108d00072e2686',
-            '63988a50be012600070f5db3',
-            '646663b01593940008990a57',
-            '633dc392e0282400071b0d39',
-            '624b1c8d4321e200073ee421',
-            '5ff609de50ab210008025c1b',
-            '65df71008b24c80008f04281',
-            '65df704366eec8000898e32f',
-            '65df713dec9fda0008b7a81d',
-            '65df70b0f7f0af0008c3b316',
-            '609ae66b359b270007869ff1',
-            '5812b7d3249444e05d09cc49',
-            '65652f7fc0fc88000883537a',
-            '637e55347427a40007fac703',
-            '5f7790b3ed0c88000720b241',
-            '5da0c85bd2c9c10009370984',
-            '5f4ec10ed9636f00089b8c89',
-            '60f74ba51c82ac000776c669',
-            '660d7268e8fba80008521de8',
             '7bdac47dd6dd5204b00b1d0e4cbc9684',
             'bdf6b34e48585f588789f7e7857a84a6'
         }
@@ -197,12 +172,16 @@ def filter_and_build_epg(urls):
                     else:
                         year = None
 
-                    categories = [
+                    raw_categories = [
                         cat.text.strip()
                         for cat in programme.findall('category')
                         if cat.text
                     ]
-                    category = categories[1] if len(categories) > 1 else (categories[0] if categories else None)
+                    
+                    categories = [
+                        c for c in raw_categories if c.lower() not in ('movie', 'series')
+                    ]
+                    category = categories[0] if categories else None
 
                     if category in category_map:
                         category = category_map[category]
