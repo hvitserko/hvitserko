@@ -71,7 +71,14 @@ def filter_and_build_epg(urls):
                 '609ae66b359b270007869ff1',
                 '5f7790b3ed0c88000720b241',
                 '5da0c85bd2c9c10009370984',
-                '62fa8176b9884200074ef5ae'
+                '62fa8176b9884200074ef5ae',
+                '63988a50be012600070f5db3',
+                '63988c2750108d00072e2686',
+                '646663b01593940008990a57',
+                '633dc392e0282400071b0d39',
+                '5ff609de50ab210008025c1b',
+                '66b26681d2d50d00083abe8b',
+                '66c7982f6838ee00085f0d24'
         }
 
         category_map = {
@@ -148,7 +155,8 @@ def filter_and_build_epg(urls):
             '5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9',
             '5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf26',
             '7bdac47dd6dd5204b00b1d0e4cbc9684',
-            'bdf6b34e48585f588789f7e7857a84a6'
+            'bdf6b34e48585f588789f7e7857a84a6',
+            '62f2ce24f328e00007e7f55a'
         }
         
         for programme in epg_data.findall('programme'):
@@ -162,8 +170,14 @@ def filter_and_build_epg(urls):
 
                 if tvg_id in desc_ids:
                     desc_element = programme.find('desc')
-                    if title_element is not None and desc_element is not None and desc_element.text:
-                        title_element.text = desc_element.text.strip()
+                    if title_element is not None and desc_element is not None and title_element.text and desc_element.text:
+                        # Trocar os textos entre <title> e <desc>
+                        original_title = title_element.text.strip()
+                        original_desc = desc_element.text.strip()
+
+                        title_element.text = original_desc
+                        desc_element.text = original_title
+
 
                 if tvg_id in special_tvg_ids and title_element is not None:
                     date_element = programme.find('date')
