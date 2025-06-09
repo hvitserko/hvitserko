@@ -12,7 +12,6 @@ MGM+.Hits.HDTV.(East).(MGM+HTHD).us
 Paramount.Network.USA.-.Eastern.Feed.us
 VICE.us
 ACC.Network.us
-NewsNation.-.Eastern.Feed.us
 Crave4.ca
 Crave2.-.East.ca
 MeTV.us
@@ -116,3 +115,14 @@ Showtime Extreme - Pacific (859).us
 660d7268e8fba80008521de8
 7bdac47dd6dd5204b00b1d0e4cbc9684
 bdf6b34e48585f588789f7e7857a84a6
+66aa67493a4ad2000806d91b
+663b9dc7cb3ea10008f1a0ce
+66c79a4262e5510008ff68a5
+663b9de4f999220008230fa8
+6806d62369aec5b19cd628c0
+66c7982f6838ee00085f0d24
+66b26681d2d50d00083abe8b
+6793eaa4bc03978b9bc63db1
+67ed8c15c84f951267dbebc2
+67ed8f7e443f0671bc2b2368
+62f2ce24f328e00007e7f55a

@@ -43,6 +43,7 @@ def filter_and_build_epg(urls):
         rename_map = {
             '5f7790b3ed0c88000720b241': 'One Piece eng',
             '5da0c85bd2c9c10009370984': 'Naruto Eng',
+            '62f2ce24f328e00007e7f55a': 'Stories by AMC Pluto TV'
         }
 
         for channel in epg_data.findall('channel'):
