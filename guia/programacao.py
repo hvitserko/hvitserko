@@ -43,7 +43,6 @@ def filter_and_build_epg(urls):
         rename_map = {
             '5f7790b3ed0c88000720b241': 'One Piece eng',
             '5da0c85bd2c9c10009370984': 'Naruto Eng',
-            '62f2ce24f328e00007e7f55a': 'Stories by AMC Pluto TV'
         }
 
         for channel in epg_data.findall('channel'):
@@ -156,7 +155,11 @@ def filter_and_build_epg(urls):
             '5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf26',
             '7bdac47dd6dd5204b00b1d0e4cbc9684',
             'bdf6b34e48585f588789f7e7857a84a6',
-            '62f2ce24f328e00007e7f55a'
+            '663b9dc7cb3ea10008f1a0ce',
+            '66aa67493a4ad2000806d91b',
+            '66c79a4262e5510008ff68a5',
+            '6806d62369aec5b19cd628c0',
+            '663b9de4f999220008230fa8'
         }
         
         for programme in epg_data.findall('programme'):
