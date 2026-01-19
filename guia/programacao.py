@@ -103,7 +103,7 @@ def filter_and_build_epg(urls):
 			'BET Herus',
 			'WJLP MeTVus',
 			'VICEus',
-			'Nick us',icus',
+			'Nick Music us',
 			'FanDuel TVus',
 			'ACC Networkus',
 			'BET Jamsus',
