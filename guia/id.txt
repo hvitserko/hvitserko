@@ -1,16 +1,14 @@
 OuterMax.east.us
-Showtime.Women.HD.-.Eastern.us
-Crave2.-.East.ca
+Showtime Women (East).us
 Hallmark.Drama.HDTV.(HALDRHD).us
-Lifetime.Movies.-.East.us
-ASPiRE.TV.us
+Lifetime Movies (East).us
 MGM+ - East (891).us
 MGM+ Hits- East (893).us
 MGM+ Drive-In (896).us
-Crave4 HD.us
-Crave3 East HD.us
-Crave2 East HD.us
-Crave1 East HD.us
+Crave1 - East HD.ca
+Crave2 - East HD.ca
+Crave3 - East HD.ca
+Crave4 HD.ca
 Hallmark Family HD.us
 ASPiRE TV HD.us
 BET Her.us
@@ -19,17 +17,11 @@ VICE.us
 Nick Music.us
 FanDuel TV.us
 ACC Network.us
-BET.Her.us
-BET.Jams.(BETJ).us
-MGM+.HDTV.(East).(MGM+HD).us
-MGM+.Drive-In.(MGM+DI).us
-MGM+.Hits.HDTV.(East).(MGM+HTHD).us
-Paramount.Network.USA.-.Eastern.Feed.us
+BET Jams.us
+Paramount Network (East).us
+AWE TV Network HD.us
 VICE.us
 ACC.Network.us
-Crave4.ca
-Crave2.-.East.ca
-MeTV.us
 UPtv.us
 WFUT GetTV.us
 MTV-U.us
