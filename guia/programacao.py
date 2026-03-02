@@ -257,7 +257,6 @@ def filter_and_build_epg(urls):
 fontes = os.getenv("FONTES")
 urls = [
         'https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz',
-        'https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz',
         'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/us.xml',
         'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/br.xml',
         'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml',
