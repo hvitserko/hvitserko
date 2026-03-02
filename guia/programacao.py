@@ -262,7 +262,7 @@ urls = [
         'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml',
         'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Roku/all.xml',
         'https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz',
-        'https://www.open-epg.com/generate/dJMkRZRhTB.xml.gz',
+		'https://www.open-epg.com/generate/dJMkRZRhTB.xml'
 ]
 
 if __name__ == "__main__":
